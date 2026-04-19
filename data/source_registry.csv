@@ -1,0 +1,22 @@
+tier,id,exam,group,asset_type,title,url,sourceType
+official,tsrjc_bulletin_2024,TSRJC/TGRJC,MPC,bulletin,TSRJC CET 2024 Information Bulletin,https://d2e1hu1ktur9ur.cloudfront.net/wp-content/uploads/2024/01/tsrjec-cet.pdf,official
+official,tsrjc_model_site,TSRJC/TGRJC,MPC,portal,TSRJDC official portal mentioned in bulletin,http://tsrjdc.cgg.gov.in,official
+official,tgrjc_answerkey_site_2026,TSRJC/TGRJC,MPC,portal,TGRJC official portal referenced for 2026 answer key,https://tgrjc.cgg.gov.in,official
+official,polycet_brochure_2026,POLYCET,GENERAL,brochure,POLYCET 2026 brochure,https://cdn.testbook.com/1773126483963-POLYCET%20BROCHURE%202026.pdf/1773126485.pdf,official
+official,polycet_notification_2026,POLYCET,GENERAL,notification,Official POLYCET 2026 notification mirror from DTE Telangana,https://gptgnpr.dte.telangana.gov.in/filePreview?fileName=CMS%2FNot_1772086349807_img.pdf,official
+official,polycet_official_site,POLYCET,GENERAL,portal,POLYCET official site referenced by multiple sources,https://polycet.sbtet.telangana.gov.in,official
+official,scert_etextbooks_catalog,SSC topic mapping,NA,textbook_catalog,SCERT Telangana e-Textbooks catalog,https://www.scert.telangana.gov.in/Home.aspx/Pdf/pdf/publication/moduls/Displaycontent.aspx?encry=ammkNW4%2Fgx+NeApstGPX+A%3D%3D,official
+official,scert_textbook_list_2025_26,SSC topic mapping,NA,textbook_list,SCERT Telangana textbooks list 2025-26,https://www.scert.telangana.gov.in/DisplayImage.aspx?encry=LAM99bLSUMS8OKP97qy2KA%3D%3D,official
+reputable_mirrors,tsrjc_prev_careers360,TSRJC/TGRJC,MPC,previous_papers,Careers360 TSRJC previous year papers,https://school.careers360.com/articles/tsrjc-cet-previous-year-question-papers-pdf-download,mirror
+reputable_mirrors,tsrjc_model_careers360,TSRJC/TGRJC,MPC,model_papers,Careers360 TSRJC model papers,https://school.careers360.com/articles/tsrjc-cet-model-question-paper-2026,mirror
+reputable_mirrors,tsrjc_answerkey_careers360,TSRJC/TGRJC,MPC,answer_keys,Careers360 TSRJC answer key page,https://school.careers360.com/articles/tsrjc-cet-answer-key,mirror
+reputable_mirrors,tsrjc_answerkey_aglasem,TSRJC/TGRJC,MPC,answer_keys,Aglasem TSRJC answer key page,https://schools.aglasem.com/tsrjc-cet-answer-key/,mirror
+reputable_mirrors,tsrjc_answerkey_collegedekho_2025,TSRJC/TGRJC,MPC,answer_keys,CollegeDekho TSRJC 2025 answer key page,https://www.collegedekho.com/news/tsrjc-cet-answer-key-2025-release-date-set-wise-pdf-download-65957/,mirror
+reputable_mirrors,polycet_prev_shiksha,POLYCET,GENERAL,previous_papers,Shiksha TS POLYCET previous year papers,https://www.shiksha.com/engineering/articles/ts-polcyet-previous-year-question-papers-pdf-blogId-184476,mirror
+reputable_mirrors,polycet_prev_collegedunia,POLYCET,GENERAL,previous_papers,Collegedunia TS POLYCET practice papers,https://collegedunia.com/exams/ts-polycet/practice-papers,mirror
+reputable_mirrors,polycet_prev_testbook,POLYCET,GENERAL,previous_papers,Testbook TS POLYCET previous year papers,https://testbook.com/ts-polycet/previous-year-papers,mirror
+reputable_mirrors,polycet_answerkey_shiksha_2024,POLYCET,GENERAL,answer_keys,Shiksha TS POLYCET 2024 answer key release page,https://www.shiksha.com/news/engineering-ts-polycet-2024-answer-key-released-at-polycet-sbtet-telangana-gov-in-download-pdf-blogId-166623,mirror
+reputable_mirrors,polycet_2024_setd_collegedunia,POLYCET,GENERAL,paper_with_key,Collegedunia TS POLYCET 2024 Set D page,https://collegedunia.com/articles/e-631-ts-polycet-2024-question-paper-set-d,mirror
+reputable_mirrors,ssc_textbooks_sakshi,SSC topic mapping,NA,textbook_mirror,Sakshi Education TS 10th textbooks 2025-26,https://education.sakshi.com/en/ts-10th/education-news/download-telangana-ssc-10th-class-new-textbooks-pdfs-2025-26-all-subjects-187155,mirror
+community_or_gapfill,tsrjc_prev_manabadi,TSRJC/TGRJC,MPC,previous_papers,Manabadi TSRJC papers,https://www.manabadi.co.in/170/TSRJC-Question-Papers,community
+community_or_gapfill,tsrjc_key_teachmint_2022,TSRJC/TGRJC,MPC,paper_with_key,Teachmint TSRJC 2022 paper with key,https://www.teachmint.com/tfile/studymaterial/polycetcoaching/maths/tsrjc2022paperwithkey/93fcf2cd-7bf1-42f4-8f29-dc5f5865cb9f,community

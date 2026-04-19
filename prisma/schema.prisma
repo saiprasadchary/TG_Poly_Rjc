@@ -1,0 +1,252 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Exam {
+  id          String      @id @default(cuid())
+  code        String      @unique
+  name        String
+  description String
+  durationMin Int?
+  totalMarks  Int?
+  totalQuestions Int?
+  groups      ExamGroup[]
+  subjects    Subject[]
+  papers      Paper[]
+  questions   Question[]
+  attempts    MockAttempt[]
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+}
+
+model ExamGroup {
+  id        String     @id @default(cuid())
+  examId    String
+  code      String
+  name      String
+  exam      Exam       @relation(fields: [examId], references: [id], onDelete: Cascade)
+  subjects  Subject[]
+  papers    Paper[]
+  questions Question[]
+  attempts  MockAttempt[]
+
+  @@unique([examId, code])
+}
+
+model Subject {
+  id        String     @id @default(cuid())
+  examId    String
+  groupId   String?
+  name      String
+  marks     Int?
+  weight    Int        @default(1)
+  exam      Exam       @relation(fields: [examId], references: [id], onDelete: Cascade)
+  group     ExamGroup? @relation(fields: [groupId], references: [id], onDelete: Cascade)
+  questions Question[]
+  attempts  MockAttempt[]
+
+  @@unique([examId, groupId, name])
+}
+
+model Paper {
+  id          String     @id @default(cuid())
+  examId      String
+  groupId     String?
+  sourceRecordId String?
+  year        Int
+  title       String
+  sourceType  String
+  sourceUrl   String?
+  exam        Exam       @relation(fields: [examId], references: [id], onDelete: Cascade)
+  group       ExamGroup? @relation(fields: [groupId], references: [id], onDelete: SetNull)
+  sourceRecord SourceRecord? @relation(fields: [sourceRecordId], references: [id], onDelete: SetNull)
+  questions   Question[]
+
+  @@index([year])
+  @@index([sourceRecordId])
+}
+
+model Question {
+  id            String       @id @default(cuid())
+  examId        String
+  groupId       String?
+  paperId       String?
+  sourceRecordId String?
+  subjectId     String
+  year          Int?
+  topic         String
+  subtopic      String?
+  difficulty    String
+  questionText  String
+  explanation   String
+  sourceType    String
+  sourceUrl     String?
+  exam          Exam         @relation(fields: [examId], references: [id], onDelete: Cascade)
+  group         ExamGroup?   @relation(fields: [groupId], references: [id], onDelete: SetNull)
+  paper         Paper?       @relation(fields: [paperId], references: [id], onDelete: SetNull)
+  sourceRecord  SourceRecord? @relation(fields: [sourceRecordId], references: [id], onDelete: SetNull)
+  subject       Subject      @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  options       Option[]
+  answerKey     AnswerKey?
+  topicTags     TopicTag[]
+  mockAnswers   MockAnswer[]
+  bookmarks     Bookmark[]
+
+  @@index([topic])
+  @@index([year])
+  @@index([sourceRecordId])
+}
+
+model Option {
+  id         String   @id @default(cuid())
+  questionId String
+  label      String
+  text       String
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  @@unique([questionId, label])
+}
+
+model AnswerKey {
+  id            String   @id @default(cuid())
+  questionId    String   @unique
+  sourceRecordId String?
+  correctOption String
+  verificationStatus String @default("demo_unverified")
+  question      Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  sourceRecord  SourceRecord? @relation(fields: [sourceRecordId], references: [id], onDelete: SetNull)
+}
+
+model TopicTag {
+  id         String   @id @default(cuid())
+  questionId String
+  sourceRecordId String?
+  tag        String
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  sourceRecord SourceRecord? @relation(fields: [sourceRecordId], references: [id], onDelete: SetNull)
+
+  @@unique([questionId, tag])
+  @@index([sourceRecordId])
+}
+
+model SourceRecord {
+  id                 String      @id
+  exam               String
+  group              String?
+  assetType          String
+  title              String
+  url                String
+  sourceType         String
+  tier               String
+  yearsClaimed       String?
+  verificationStatus String      @default("unverified")
+  metadata           String      @default("{}")
+  createdAt          DateTime    @default(now())
+  updatedAt          DateTime    @updatedAt
+  papers             Paper[]
+  questions          Question[]
+  answerKeys         AnswerKey[]
+  topicTags          TopicTag[]
+
+  @@index([exam, group, assetType])
+  @@index([sourceType, tier])
+  @@index([verificationStatus])
+}
+
+model UserProfile {
+  id             String            @id @default(cuid())
+  displayName    String
+  targetExam      String
+  targetGroup     String?
+  phoneStudyMode  Boolean           @default(true)
+  mockAttempts    MockAttempt[]
+  studyPlans      StudyPlan[]
+  weaknessProfiles WeaknessProfile[]
+  bookmarks       Bookmark[]
+  createdAt       DateTime          @default(now())
+  updatedAt       DateTime          @updatedAt
+}
+
+model MockAttempt {
+  id             String       @id @default(cuid())
+  userId         String
+  examId         String
+  groupId        String?
+  subjectId      String?
+  mode           String
+  title          String
+  score          Int          @default(0)
+  totalMarks     Int
+  totalQuestions Int
+  accuracy       Float        @default(0)
+  timeSpentSec   Int          @default(0)
+  submittedAt    DateTime?
+  createdAt      DateTime     @default(now())
+  user           UserProfile  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  exam           Exam         @relation(fields: [examId], references: [id], onDelete: Cascade)
+  group          ExamGroup?   @relation(fields: [groupId], references: [id], onDelete: SetNull)
+  subject        Subject?     @relation(fields: [subjectId], references: [id], onDelete: SetNull)
+  answers        MockAnswer[]
+}
+
+model MockAnswer {
+  id             String      @id @default(cuid())
+  attemptId      String
+  questionId     String
+  selectedOption String?
+  isCorrect      Boolean     @default(false)
+  isGuessed      Boolean     @default(false)
+  isFlagged      Boolean     @default(false)
+  timeSpentSec   Int         @default(0)
+  attempt        MockAttempt @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  question       Question    @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  @@unique([attemptId, questionId])
+}
+
+model StudyPlan {
+  id          String      @id @default(cuid())
+  userId      String
+  examType    String
+  groupCode   String?
+  durationDays Int
+  title       String
+  planJson    String
+  createdAt   DateTime    @default(now())
+  user        UserProfile @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model WeaknessProfile {
+  id            String      @id @default(cuid())
+  userId        String
+  examType      String
+  groupCode     String?
+  subject       String
+  topic         String
+  wrongCount    Int         @default(0)
+  attemptCount  Int         @default(0)
+  avgTimeSec    Int         @default(0)
+  confidence    Float       @default(0)
+  lastSeenAt    DateTime    @default(now())
+  user          UserProfile @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, examType, groupCode, subject, topic])
+}
+
+model Bookmark {
+  id          String       @id @default(cuid())
+  userId      String
+  questionId  String
+  type        String
+  note        String?
+  createdAt   DateTime     @default(now())
+  user        UserProfile  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  question    Question     @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, questionId, type])
+}
