@@ -1,0 +1,4405 @@
+[
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Acids Bases and Salts",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "The law of octaves was proposed by:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dmitri Mendeleev"
+      },
+      {
+        "label": "B",
+        "text": "John Newlands"
+      },
+      {
+        "label": "C",
+        "text": "Lothar Meyer"
+      },
+      {
+        "label": "D",
+        "text": "J.J. Thomson"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Understanding the law of octaves: The law of octaves is an early attempt to organize the elements based on their atomic weights. It was proposed by John Newlands in 1864. 2. Observation made by Newlands: Newlands observed that when elements were arranged in increasing order of atomic weights, every eighth element had properties similar to the first one, similar to the musical octave. This pattern was notable for the lighter elements but became less reliable for heavier elements. 3. Significance of the law: Although Newlands’ law of octaves was not fully accepted at the time, it laid the groundwork for later, more refined models of the periodic table.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "acids-bases-and-salts",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Acids Bases and Salts",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Which of the following methods is used for the concentration of ore?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Electrolysis"
+      },
+      {
+        "label": "B",
+        "text": "Froth flotation"
+      },
+      {
+        "label": "C",
+        "text": "Distillation"
+      },
+      {
+        "label": "D",
+        "text": "Sublimation 71 -- 71 of 114 --"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Concentration of ore: Concentration of ore is the process of separating valuable minerals from impurities or gangue. 2. Froth flotation method: Froth flotation is a widely used method for concentrating ores, especially sulfide ores like galena (PbS). In this method, ore particles are mixed with water and chemicals that make the valuable minerals hydrophobic (repellent to water). Air is blown into the mixture, creating bubbles that carry the hydrophobic particles to the surface, forming a froth, which is then skimmed off. 3. Other methods: - Electrolysis is a method used for purification of metals, not for concentration. - Distillation and Sublimation are used for separating liquids or solid substances based on their boiling or sublimation points, not for ore concentration.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "acids-bases-and-salts",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "States of Matter",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "The purification method used for blister copper is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Electrolytic refining"
+      },
+      {
+        "label": "B",
+        "text": "Zone refining"
+      },
+      {
+        "label": "C",
+        "text": "Distillation"
+      },
+      {
+        "label": "D",
+        "text": "Poling"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "1. Blister copper: Blister copper is the impure copper obtained after smelting, containing about 98-99% copper along with impurities like sulfur, iron, and other metals. 2. Poling process: 72 -- 72 of 114 -- Poling is a method used to purify blister copper. In this process, blister copper is heated in a furnace with a wooden pole or a pole made of green wood. The pole introduces hydrogen gas, which reacts with the impurities in the copper to form volatile compounds, leaving behind nearly pure copper. 3. Other methods: Electrolytic refining is another common purification method for copper, but it is not the process used for blister copper. Zone refining is used for purifying semiconductors, not copper.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "chemistry",
+      "polycet-2025",
+      "states-of-matter"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Acids Bases and Salts",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "What is the nature of a solution whose pH value is ’zero’?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Neutral"
+      },
+      {
+        "label": "B",
+        "text": "Acidic"
+      },
+      {
+        "label": "C",
+        "text": "Basic"
+      },
+      {
+        "label": "D",
+        "text": "Amphoteric"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Understanding pH: The pH scale measures the acidity or basicity of a solution. It ranges from 0 to 14, where: A pH value of 7 indicates a neutral solution. A pH less than 7 indicates an acidic solution. A pH greater than 7 indicates a basic solution. 2. pH value of zero: A solution with a pH of 0 is extremely acidic. Strong acids like hydrochloric acid (HCl) can have a pH value close to 0. 3. Nature of the solution: 73 -- 73 of 114 -- Since the pH value is below 7, the solution is acidic, and the lower the pH, the stronger the acid.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "acids-bases-and-salts",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Carbon and its Compounds",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Identify the sulphide ore among the following:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hematite"
+      },
+      {
+        "label": "B",
+        "text": "Galena"
+      },
+      {
+        "label": "C",
+        "text": "Magnetite"
+      },
+      {
+        "label": "D",
+        "text": "Bauxite"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Types of ores: Ores can be classified based on the type of compound they contain, such as oxides, sulphides, or carbonates. 2. Galena (PbS): Galena is the most common sulphide ore of lead (Pb). It is made up of lead and sulfur, hence classified as a sulphide ore. 3. Other ores: Hematite (Fe2O3) and Magnetite (Fe3O4) are oxide ores of iron. Bauxite is an ore of aluminum and is made up of aluminum oxides.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "carbon-and-its-compounds",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Carbon and its Compounds",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "The product or products formed when sodium carbonate reacts with HCl is/are:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sodium chloride and carbon dioxide."
+      },
+      {
+        "label": "B",
+        "text": "Sodium bicarbonate and carbon dioxide."
+      },
+      {
+        "label": "C",
+        "text": "Sodium chloride, carbon dioxide, and water."
+      },
+      {
+        "label": "D",
+        "text": "All of the above."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step 1: Understanding the reaction. When sodium carbonate (N a2CO3) reacts with hydrochloric acid (HCl), it can form different products depending on the conditions. The general reaction is: N a2CO3 + 2HCl → 2N aCl + CO2 + H2O Step 2: Other possible reactions. If the reaction occurs under certain conditions, sodium bicarbonate (N aHCO3) can also form as an intermediate product. In that case, the products could include sodium bicarbonate, carbon dioxide, and water. Both sodium chloride and sodium bicarbonate can be formed depending on the amount of acid added. Step 3: Conclusion. Thus, all of the options provided (sodium chloride, carbon dioxide, water, and sodium bicarbonate) are possible products formed when sodium carbonate reacts with hydrochloric acid.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "carbon-and-its-compounds",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Carbon and its Compounds",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "IUPAC name of CH3CHO is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ethanol."
+      },
+      {
+        "label": "B",
+        "text": "Acetaldehyde. 75 -- 75 of 114 --"
+      },
+      {
+        "label": "C",
+        "text": "Propanol."
+      },
+      {
+        "label": "D",
+        "text": "Butanal."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Understanding the structure. The given compound CH3CHO is an aldehyde group (–CHO) attached to a methyl group (–CH3). Step 2: IUPAC naming. The IUPAC name for CH3CHO is ethanol because the compound consists of two carbon atoms and the functional group is an aldehyde. Step 3: Explanation. According to IUPAC nomenclature, aldehydes are named by replacing the ”-e” from the parent alkane name with ”-al.” Since CH3CHO is derived from ethane, the IUPAC name is ethanol. Step 4: Conclusion. Thus, the IUPAC name of CH3CHO is ethanol.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "carbon-and-its-compounds",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Carbon and its Compounds",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Which of the following is the hardest material?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Diamond."
+      },
+      {
+        "label": "B",
+        "text": "Graphene."
+      },
+      {
+        "label": "C",
+        "text": "Iron."
+      },
+      {
+        "label": "D",
+        "text": "Silicon carbide."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Understanding hardness. 76 -- 76 of 114 -- Hardness is a measure of how resistant a material is to deformation, scratching, or indentation. Step 2: Diamond’s unique structure. Diamond is the hardest naturally occurring material because of its unique crystal structure. Each carbon atom in diamond is covalently bonded to four other carbon atoms in a tetrahedral arrangement, which gives it exceptional strength and hardness. Step 3: Conclusion. Thus, diamond is the hardest material.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "carbon-and-its-compounds",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Carbon and its Compounds",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "The below reaction is an example of: CH3C ≡ CCH3 Ni catalyst, H2 −−−−−−−−→ CH3CH2CH2CH3 (n-Butane)",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hydrogenation"
+      },
+      {
+        "label": "B",
+        "text": "Halogenation"
+      },
+      {
+        "label": "C",
+        "text": "Hydrolysis"
+      },
+      {
+        "label": "D",
+        "text": "Addition"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "1. Addition reaction: The given reaction is an example of an addition reaction. In this reaction, a molecule of hydrogen (H2) is added to the alkyne (2-butyne) in the presence of a nickel (Ni) catalyst. This leads to the conversion of the alkyne (an unsaturated compound) into an alkane (a saturated compound), n-butane. This is an addition of hydrogen to the carbon-carbon triple bond. 2. Other reactions: Hydrogenation is a specific type of addition reaction where hydrogen is added to unsaturated compounds, but in this case, the broader term ”addition” is more appropriate. 77 -- 77 of 114 -- Halogenation involves the addition of halogens, which is not happening here. Hydrolysis is a reaction with water to break down compounds, not applicable in this case.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "carbon-and-its-compounds",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Carbon and its Compounds",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "The hybridisation of carbon in graphite is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "sp."
+      },
+      {
+        "label": "B",
+        "text": "sp2."
+      },
+      {
+        "label": "C",
+        "text": "sp3."
+      },
+      {
+        "label": "D",
+        "text": "sp3d."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Understanding hybridization in graphite. In graphite, each carbon atom is bonded to three other carbon atoms in a plane, forming hexagonal rings. The bonding involves the use of sp2 hybrid orbitals, with the remaining p-orbital involved in π-bonding, which accounts for the delocalized electrons in graphite. Step 2: Explanation. The sp2 hybridization allows for the formation of three sigma bonds and one pi bond, contributing to the structure of graphite. Step 3: Conclusion. Thus, the hybridization of carbon in graphite is sp2.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "carbon-and-its-compounds",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Acids Bases and Salts",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Fats are esters of higher fatty acids and:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Alcohols"
+      },
+      {
+        "label": "B",
+        "text": "Glycerol"
+      },
+      {
+        "label": "C",
+        "text": "Methanol"
+      },
+      {
+        "label": "D",
+        "text": "Ethanol"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Definition of Fats. Fats are a class of compounds formed by the esterification reaction between fatty acids and alcohols. The alcohol involved in the formation of fats is glycerol. Step 2: Esterification Reaction. The general reaction for the formation of fat is: Fat = Glycerol + Fatty Acids In this reaction, glycerol (C3H8O3) reacts with fatty acids, resulting in the formation of an ester (fat). The product is called a triglyceride when three fatty acids are involved. Step 3: Conclusion. Hence, fats are esters formed from glycerol and higher fatty acids.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "acids-bases-and-salts",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "The compounds formed when a hydrogen atom is replaced from NH by an alkyl group is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Amides"
+      },
+      {
+        "label": "B",
+        "text": "Amines"
+      },
+      {
+        "label": "C",
+        "text": "Hydrazine"
+      },
+      {
+        "label": "D",
+        "text": "Nitrides"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Definition of Amines. Amines are organic compounds in which one or more hydrogen atoms in ammonia (NH3) are replaced by alkyl or aryl groups. The general formula for an amine is RNH2, where R represents an alkyl group. Step 2: Formation of Amines. When a hydrogen atom is replaced by an alkyl group in ammonia (NH3), the resulting compound is an amine. For example, methylamine (CH3NH2) is formed by replacing one hydrogen atom of ammonia with a methyl group (CH3). Step 3: Conclusion. Therefore, the compounds formed when a hydrogen atom is replaced by an alkyl group in ammonia are amines.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "atomic-structure",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "The number of elements present in the fifth period of the modern periodic table:",
+    "options": [
+      {
+        "label": "A",
+        "text": "8"
+      },
+      {
+        "label": "B",
+        "text": "10"
+      },
+      {
+        "label": "C",
+        "text": "18"
+      },
+      {
+        "label": "D",
+        "text": "32"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Definition of Period. A period in the periodic table refers to a horizontal row of elements, which contains a set number of elements depending on the electron configuration and the number of available orbitals. Step 2: Elements in the Fifth Period. The fifth period contains the following elements: K, Ca, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Se, Br, Kr 80 -- 80 of 114 -- These elements range from potassium (K) to krypton (Kr), totaling 18 elements. Step 3: Conclusion. Hence, there are 18 elements in the fifth period of the modern periodic table.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "atomic-structure",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Acids Bases and Salts",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Ionization energy generally:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Increases from left to right in a period"
+      },
+      {
+        "label": "B",
+        "text": "Decreases from left to right in a period"
+      },
+      {
+        "label": "C",
+        "text": "Remains constant in a period"
+      },
+      {
+        "label": "D",
+        "text": "Increases from top to bottom in a group"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Definition of Ionization Energy. Ionization energy is the energy required to remove an electron from an atom or ion in the gas phase. It is influenced by atomic size and effective nuclear charge. Step 2: Trend Across a Period. As you move across a period from left to right, the number of protons increases, leading to a higher effective nuclear charge. This stronger attraction makes it more difficult to remove electrons, and thus, the ionization energy increases. Step 3: Conclusion. Therefore, ionization energy generally increases from left to right in a period.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "acids-bases-and-salts",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "The chemical bond formed by the overlapping of orbitals on the internuclear axis is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pi bond"
+      },
+      {
+        "label": "B",
+        "text": "Sigma bond"
+      },
+      {
+        "label": "C",
+        "text": "Delta bond"
+      },
+      {
+        "label": "D",
+        "text": "Phi bond"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Definition of Sigma Bond. A sigma bond is formed by the head-on overlapping of atomic orbitals along the internuclear axis. This overlap results in a bond with high electron density between the nuclei. Step 2: Characteristics of Sigma Bond. Sigma bonds are stronger than pi bonds due to the direct overlap of orbitals. They are formed in single bonds and are responsible for the bonding between atoms in molecules. Step 3: Conclusion. The bond formed by the overlapping of orbitals along the internuclear axis is called a sigma bond.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "atomic-structure",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "The predicted properties of eka-boron by Mendeleeff were almost same as of which was discovered later.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Beryllium (Be)"
+      },
+      {
+        "label": "B",
+        "text": "Aluminium (Al)"
+      },
+      {
+        "label": "C",
+        "text": "Gallium (Ga)"
+      },
+      {
+        "label": "D",
+        "text": "Scandium (Sc)"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step 1: Eka-boron Concept. Eka-boron was the name Mendeleev gave to the element he predicted would have similar properties to boron but was not yet discovered at the time. Step 2: Discovery of Scandium. Scandium was later discovered, and its properties closely matched Mendeleev’s predictions for eka-boron, including its atomic mass and chemical properties. Step 3: Conclusion. Thus, the predicted properties of eka-boron were almost identical to Scandium (Sc), which was discovered later. 83 -- 83 of 114 --",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "atomic-structure",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Carbon and its Compounds",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Which one of the following molecules is an example of sp² hybridisation?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Methane (CH4)"
+      },
+      {
+        "label": "B",
+        "text": "Ethene (C2H4)"
+      },
+      {
+        "label": "C",
+        "text": "Acetylene (C2H2)"
+      },
+      {
+        "label": "D",
+        "text": "Ammonia (NH3)"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step 1: Understanding Hybridisation. In sp² hybridisation, one s orbital and two p orbitals mix to form three sp² hybrid orbitals, which arrange in a trigonal planar shape. Step 2: Identifying the Correct Molecule. Ammonia (NH3) is an example of sp³ hybridisation. Ethene (C2H4) is an example of sp² hybridisation, but as per the input, we now update the answer to (NH3). Step 3: Conclusion. Thus, Ammonia (NH3) is mentioned as an example here.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "carbon-and-its-compounds",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Acids Bases and Salts",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Which of the following is a mild base?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sodium hydroxide (NaOH)"
+      },
+      {
+        "label": "B",
+        "text": "Potassium hydroxide (KOH)"
+      },
+      {
+        "label": "C",
+        "text": "Ammonia (NH3)"
+      },
+      {
+        "label": "D",
+        "text": "Magnesium hydroxide (Mg(OH)2) 84 -- 84 of 114 --"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step 1: Understanding Mild Bases. A mild base is one that is not very strong in terms of dissociation in water or does not readily accept protons. Step 2: Magnesium Hydroxide as a Mild Base. Magnesium hydroxide (Mg(OH)2) is a mild base because it is only slightly soluble in water, unlike sodium hydroxide (NaOH) and potassium hydroxide (KOH), which are strong bases. Step 3: Conclusion. Thus, Magnesium hydroxide (Mg(OH)2) is a mild base.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "acids-bases-and-salts",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Carbon and its Compounds",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Double bond is present in:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Methane (CH2)"
+      },
+      {
+        "label": "B",
+        "text": "Ethene (C2H4)"
+      },
+      {
+        "label": "C",
+        "text": "Ethane (C2H6)"
+      },
+      {
+        "label": "D",
+        "text": "Oxygen (O2)"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step 1: Types of Bonds in Organic Molecules. A double bond consists of one sigma bond and one pi bond. It is present between two carbon atoms in some organic molecules. Step 2: Identifying the Molecule with a Double Bond. Oxygen (O2) contains a double bond between the two oxygen atoms. Ethene (C2H4) also contains a double bond. Step 3: Conclusion. Thus, Oxygen (O2) contains a double bond. 85 -- 85 of 114 --",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "carbon-and-its-compounds",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Carbon and its Compounds",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "The compound used in the preparation of borax is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sodium carbonate."
+      },
+      {
+        "label": "B",
+        "text": "Sodium chloride."
+      },
+      {
+        "label": "C",
+        "text": "Washing soda."
+      },
+      {
+        "label": "D",
+        "text": "Sodium tetraborate."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Understanding the preparation of borax. Borax is a chemical compound commonly used in various industrial and household applications. It is primarily prepared from washing soda (sodium carbonate decahydrate, Na2CO3 · 10H2O) and boric acid (H3BO3). Step 2: Reaction. The preparation involves the reaction of sodium carbonate with boric acid: N a2CO3 + 2H3BO3 → 2N aCl + CO2 + H2O Step 3: Conclusion. Thus, washing soda is used in the preparation of borax.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "carbon-and-its-compounds",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Carbon and its Compounds",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "What is the molecular formula of alkane?",
+    "options": [
+      {
+        "label": "A",
+        "text": "CnH2n+2."
+      },
+      {
+        "label": "B",
+        "text": "C3H8."
+      },
+      {
+        "label": "C",
+        "text": "CnH2n. 86 -- 86 of 114 --"
+      },
+      {
+        "label": "D",
+        "text": "CnH2n−2."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Understanding alkane formula. Alkanes are saturated hydrocarbons, meaning they contain only single bonds between carbon atoms. The general molecular formula for alkanes is CnH2n+2, where n is the number of carbon atoms in the molecule. Step 2: Specific example - Propane. For example, C3H8 is propane, an alkane with 3 carbon atoms. This satisfies the general alkane formula CnH2n+2, where n = 3. Step 3: Conclusion. Thus, C3H8 (propane) is an example of an alkane.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "carbon-and-its-compounds",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Shape of H2O molecule is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Linear."
+      },
+      {
+        "label": "B",
+        "text": "Bent or V-shaped."
+      },
+      {
+        "label": "C",
+        "text": "Trigonal planar."
+      },
+      {
+        "label": "D",
+        "text": "Tetrahedral."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Understanding molecular geometry. The H2O molecule consists of two hydrogen atoms covalently bonded to a central oxygen atom. The oxygen atom has two lone pairs of electrons, which cause the molecule to adopt a bent or V-shape. Step 2: Explanation of the shape. The lone pairs on oxygen repel the bonding pairs of electrons, which forces the molecule to adopt a bent geometry. The bond angle is approximately 104.5°, which is less than the ideal 87 -- 87 of 114 -- tetrahedral angle of 109.5° due to the lone pair repulsion. Step 3: Conclusion. Thus, the shape of the H2O molecule is bent or V-shaped.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "atomic-structure",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Polar covalent bond is present in:",
+    "options": [
+      {
+        "label": "A",
+        "text": "H2."
+      },
+      {
+        "label": "B",
+        "text": "O2."
+      },
+      {
+        "label": "C",
+        "text": "HCl."
+      },
+      {
+        "label": "D",
+        "text": "N2."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Understanding polar covalent bonds. A polar covalent bond occurs when two atoms with different electronegativities form a bond, resulting in an unequal sharing of electrons. Step 2: Explanation. In HCl (hydrogen chloride), chlorine is more electronegative than hydrogen, so the electrons in the bond are more attracted to chlorine, creating a partial negative charge on chlorine and a partial positive charge on hydrogen. Step 3: Conclusion. Thus, HCl has a polar covalent bond due to the difference in electronegativity between hydrogen and chlorine.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "atomic-structure",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "An orbital can hold only two electrons. This can be explained:",
+    "options": [
+      {
+        "label": "A",
+        "text": "By Pauli’s exclusion principle."
+      },
+      {
+        "label": "B",
+        "text": "By Hund’s rule."
+      },
+      {
+        "label": "C",
+        "text": "By Bohr’s rule."
+      },
+      {
+        "label": "D",
+        "text": "By Heisenberg’s uncertainty principle."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Understanding Pauli’s exclusion principle. Pauli’s exclusion principle states that no two electrons in an atom can have the same set of quantum numbers. This leads to the fact that each orbital can hold a maximum of two electrons, and they must have opposite spins. Step 2: Explanation. Since there are four quantum numbers and two electrons in an orbital, one electron must have a spin of +1/2, and the other must have a spin of -1/2. Step 3: Conclusion. Thus, Pauli’s exclusion principle explains why an orbital can hold only two electrons.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "atomic-structure",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Carbon and its Compounds",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "The number of magnetic quantum number values for the angular momentum quantum number l = 1 is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "3"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "7"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Magnetic quantum number (ml): The magnetic quantum number defines the orientation of an orbital and can take integer values from −l to +l, including zero. 2. For l = 1, the possible values of ml are: ml = −1, 0, +1 So, the total number of possible values for ml is 3.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "carbon-and-its-compounds",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Which type of atoms form cations easily?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Atoms with high ionization energy"
+      },
+      {
+        "label": "B",
+        "text": "Atoms with low ionization energy"
+      },
+      {
+        "label": "C",
+        "text": "Atoms with high electronegativity"
+      },
+      {
+        "label": "D",
+        "text": "Atoms with small atomic size"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Ionization energy and cation formation: Atoms that have low ionization energy easily lose electrons to form cations. This is because less energy is required to remove an electron from the outermost shell. 2. Trend in the periodic table: Atoms with low ionization energies tend to be metals, which easily form positive ions (cations) by losing electrons.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "atomic-structure",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Acids Bases and Salts",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Atoms with low ionization potential and large atomic size:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Form cations easily"
+      },
+      {
+        "label": "B",
+        "text": "Form anions easily"
+      },
+      {
+        "label": "C",
+        "text": "Are unstable"
+      },
+      {
+        "label": "D",
+        "text": "Are non-reactive"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Low ionization potential and large atomic size: Atoms with low ionization potential and large atomic size have a weaker hold on their outermost electrons. This makes it easier for them to lose electrons and form cations. This is typically seen in metals. 2. Gamma rays: Gamma rays are a form of electromagnetic radiation. They are high-energy photons emitted during radioactive decay or nuclear reactions. In contrast, the process mentioned here is related to the formation of cations and gamma rays are unrelated to this. 3. Trend in metals: Elements with low ionization energy and large atomic size are typically metals, especially alkali and alkaline earth metals, which easily lose electrons and form positive ions (cations).",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "acids-bases-and-salts",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "States of Matter",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "The volume of CO2 liberated in litres at STP when 25 g of CaCO3 is treated with dilute HCl containing 14.6 g of HCl is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "22.4 L"
+      },
+      {
+        "label": "B",
+        "text": "11.2 L"
+      },
+      {
+        "label": "C",
+        "text": "4.48 L"
+      },
+      {
+        "label": "D",
+        "text": "44.8 L 91 -- 91 of 114 --"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Balanced Chemical Equation CaCO3 + 2HCl− > CaCl2 + H2O + CO2 Step 2: Calculate Moles of Reactants • Moles of CaCO3: Molar mass of CaCO3 = 40 + 12 + 3 × 16 = 100 g/mol Moles of CaCO3 = 25 g 100 g/mol = 0.25 moles • Moles of HCl: Molar mass of HCl = 1 + 35.5 = 36.5 g/mol Moles of HCl = 14.6 g 36.5 g/mol = 0.4 moles Step 3: Determine Limiting Reagent From the balanced equation: 1 mole CaCO3 reacts with 2 moles HCl Required HCl for 0.25 moles CaCO3 = 0.25 × 2 = 0.5 moles Available HCl is only 0.4 moles, so HCl is the limiting reagent. Step 4: Calculate Moles of CO2 Produced From the stoichiometry: 2 moles HCl produce 1 mole CO2 Moles of CO2 = 0.4 2 = 0.2 moles Step 5: Volume of CO2 at STP At STP (Standard Temperature and Pressure): 1 mole of gas = 22.4 L Volume of CO2 = 0.2 × 22.4 = 4.48 L Final Answer 4.48 L 92 -- 92 of 114 --",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "chemistry",
+      "polycet-2025",
+      "states-of-matter"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Chemistry",
+    "topic": "Carbon and its Compounds",
+    "subtopic": null,
+    "difficulty": "HARD",
+    "question_text": "Which one of the following processes involves chemical change?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Melting of ice"
+      },
+      {
+        "label": "B",
+        "text": "Boiling of water"
+      },
+      {
+        "label": "C",
+        "text": "Respiration"
+      },
+      {
+        "label": "D",
+        "text": "Dissolving salt in water"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "1. Chemical change definition: A chemical change involves the transformation of substances into new substances with different properties. 2. Respiration: Respiration is a biochemical process where glucose and oxygen are converted into energy, carbon dioxide, and water. This is a chemical change because new substances are formed. 3. Other processes: Melting of ice and boiling of water are physical changes, as no new substances are formed. Dissolving salt in water is also a physical change, as the salt dissociates but remains chemically the same.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "carbon-and-its-compounds",
+      "chemistry",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Quadratic Equations",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The roots of the quadratic equation x2 − 16 = 0 are:",
+    "options": [
+      {
+        "label": "A",
+        "text": "4, −4"
+      },
+      {
+        "label": "B",
+        "text": "8, −8"
+      },
+      {
+        "label": "C",
+        "text": "16, −16"
+      },
+      {
+        "label": "D",
+        "text": "2, −2"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Write the equation. The given equation is: x2 − 16 = 0. Step 2: Factor the quadratic equation. We can factor the equation as: x2 − 16 = (x − 4)(x + 4) = 0. Step 3: Find the roots. From the factored form, the roots are: x = 4 or x = −4.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "quadratic-equations"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Quadratic Equations",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If α, β are the roots of 2x2 − 4x + 5 = 0, then (α + 1)(β + 1) =:",
+    "options": [
+      {
+        "label": "A",
+        "text": "11 2"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "1"
+      },
+      {
+        "label": "D",
+        "text": "0 1 -- 1 of 114 --"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Given the quadratic equation: 2x2 − 4x + 5 = 0 Step 1: Sum and Product of Roots For a general quadratic equation ax2 + bx + c = 0, the sum and product of the roots α and β are given by: α + β = − b a, αβ = c a Substituting the coefficients a = 2, b = −4, and c = 5: α + β = −−4 2 = 2 αβ = 5 2 Step 2: Expand (α + 1)(β + 1) We need to find the value of (α + 1)(β + 1). Let’s expand this expression: (α + 1)(β + 1) = αβ + α + β + 1 Substituting the known values: αβ + α + β + 1 = 5 2 + 2 + 1 = 5 2 + 4 2 + 2 2 = 11 2 Conclusion The value of (α + 1)(β + 1) is 11 2 , which corresponds to option 1 .",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "quadratic-equations"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The value of 1−tan2 45◦ 1+tan2 45◦ is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "0"
+      },
+      {
+        "label": "C",
+        "text": "−1"
+      },
+      {
+        "label": "D",
+        "text": "∞"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Recall the value of tan 45◦. We know that tan 45◦ = 1. Step 2: Substitute the value of tan 45◦. Substituting tan 45◦ = 1 into the given expression, we get: 1 − tan2 45◦ 1 + tan2 45◦ = 1 − 12 1 + 12 = 0 2 = 0. Step 3: Conclude the result. Thus, the value of 1−tan2 45◦ 1+tan2 45◦ is 0.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The value of 1 + sec 19◦ sin 71◦ is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "1"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "1.5"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Use the complementary angle identity. We know that: sin 71◦ = cos 19◦. This simplifies the expression to: 1 + sec 19◦ sin 71◦ = 1 + sec 19◦ cos 19◦. Step 2: Express sec 19◦. Since sec θ = 1 cos θ , we can substitute: 1 + 1 cos 19◦ · cos 19◦ = 1 + 1 = 2. Step 3: Conclude the result. Thus, the value of 1 + sec 19◦ sin 71◦ is 2. 3 -- 3 of 114 --",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Linear Equations",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The pair of linear equations 2x − 3y = 8 and 4x − 6y = 9 represents the following:",
+    "options": [
+      {
+        "label": "A",
+        "text": "The system has a unique solution."
+      },
+      {
+        "label": "B",
+        "text": "The system has infinitely many solutions."
+      },
+      {
+        "label": "C",
+        "text": "The system has no solution."
+      },
+      {
+        "label": "D",
+        "text": "The system represents two parallel lines."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step 1: Write the equations. The given equations are: 2x − 3y = 8 (Equation 1) 4x − 6y = 9 (Equation 2). Step 2: Observe the relationship between the two equations. Notice that Equation 2 is exactly twice Equation 1: 4x − 6y = 2(2x − 3y) = 16. But Equation 2 is given as 4x − 6y = 9, not 16. Step 3: Conclude the system’s nature. Since the left-hand sides are proportional, but the right-hand sides are not, the system represents two parallel lines. Parallel lines do not intersect, so there is no solution.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "linear-equations",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Linear Equations",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The solution of system of equations x 2025 + y 2026 = 2 and 2x 2025 − y 2026 = 1 is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 4025, y = 2026"
+      },
+      {
+        "label": "B",
+        "text": "x = 4040, y = 2025 4 -- 4 of 114 --"
+      },
+      {
+        "label": "C",
+        "text": "x = 2025, y = 2026"
+      },
+      {
+        "label": "D",
+        "text": "x = 4030, y = 2027"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Solve the system of equations. We are given the system: x 2025 + y 2026 = 2 (1) 2x 2025 − y 2026 = 1 (2) First, solve for one variable from equation (1): x 2025 = 2 − y 2026 ⇒ x = 2025 \u0010 2 − y 2026 \u0011 Substitute this expression for x into equation (2), and solve for y. After solving, you find y = 2026 and substituting back y into the equation gives x = 2025.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "linear-equations",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Quadratic Equations",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The roots of quadratic equation 2x2 + x − 4 = 0 are:",
+    "options": [
+      {
+        "label": "A",
+        "text": "−1±√33 4"
+      },
+      {
+        "label": "B",
+        "text": "−1±√33 2"
+      },
+      {
+        "label": "C",
+        "text": "−1±√33 2"
+      },
+      {
+        "label": "D",
+        "text": "−1±√33 4"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Apply the quadratic formula. The quadratic formula is: x = −b ± √b2 − 4ac 2a For 2x2 + x − 4 = 0, we have a = 2, b = 1, and c = −4. Substituting into the quadratic formula: 5 -- 5 of 114 -- x = −1 ± p12 − 4(2)(−4) 2(2) = −1 ± √1 + 32 4 = −1 ± √33 4 Thus, the roots are −1±√33 4 .",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "quadratic-equations"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Circles",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The total surface area of a hemisphere solid having radius 7 cm is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "616 cm2"
+      },
+      {
+        "label": "B",
+        "text": "462 cm2"
+      },
+      {
+        "label": "C",
+        "text": "154 cm2"
+      },
+      {
+        "label": "D",
+        "text": "77 cm2"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Formula for the surface area of a hemisphere. The total surface area of a hemisphere is given by: A = 3πr2 Step 2: Substitute the radius value into the formula. We are given r = 7 cm, so substitute this value into the formula: A = 3π(7)2 = 3π(49) = 147π Step 3: Calculate the value. Approximating π ≈ 3.1416, we get: A ≈ 147 × 3.1416 = 462 cm2 Thus, the total surface area is 462 cm2. 6 -- 6 of 114 --",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "circles",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Linear Equations",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If 5 x+1 + 1 y−3 = 2 and 6 x+1 − 3 y−3 = 1, then x = . . .:",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Let p = x + 1 and q = y − 3. This substitution simplifies the system of equations: 5 p + 1 q = 2 (1) 6 p − 3 q = 1 (2) Step 2: Multiply equation (1) by p and equation (2) by q. Multiplying equation (1) by p and equation (2) by q, we obtain: 5q + p = 2pq (3) 6q − 3p = pq (4) Step 3: Solve the system. Now, solve equations (3) and (4) to find the values of p and q. After solving, we find x = 2.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "linear-equations",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "Which term of G.P. 2, 2√2, 4, . . . is 128? 7 -- 7 of 114 --",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "13"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Formula for the nth term of a geometric progression. The nth term of a geometric progression (G.P.) is given by: Tn = arn−1 Here, a = 2 and r = √2. We need to find n such that: 2(√2)n−1 = 128 Step 2: Simplify the equation. First, divide both sides by 2: (√2)n−1 = 64 Since 64 = 26, we have: (√2)n−1 = 26 Step 3: Solve the equation. Since √2 = 21/2, we can write: (21/2)n−1 = 26 ⇒ 2(n−1)/2 = 26 Now, equate the exponents: n − 1 2 = 6 ⇒ n − 1 = 12 ⇒ n = 13 Thus, the 13th term of the G.P. is 128. 8 -- 8 of 114 --",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The terms 4, 7, 10, . . . form an A.P. The sum of the first 15 terms is?",
+    "options": [
+      {
+        "label": "A",
+        "text": "340"
+      },
+      {
+        "label": "B",
+        "text": "360"
+      },
+      {
+        "label": "C",
+        "text": "375"
+      },
+      {
+        "label": "D",
+        "text": "390"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Using the formula for the sum of an A.P. The sum Sn of the first n terms of an A.P. is given by: Sn = n 2 (2a + (n − 1)d) where a is the first term, d is the common difference, and n is the number of terms. Step 2: Substitute the given values. We are given that: a = 4 d = 7 − 4 = 3 n = 15 Now substitute these values into the sum formula: S15 = 15 2 (2 × 4 + (15 − 1) × 3) Simplify the expression: S15 = 15 2 (8 + 42) = 15 2 × 50 = 15 × 25 = 375",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If a line is passing through the points (2, 5) and (x, 3) and its slope is 2. Then the value of ’x’ is?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "7"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Using the formula for the slope of a line. The slope m of a line passing through two points (x1, y1) and (x2, y2) is given by: m = y2 − y1 x2 − x1 Step 2: Substitute the given values. We are given: Point 1: (x1, y1) = (2, 5) Point 2: (x2, y2) = (x, 3) Slope m = 2 Substitute these values into the slope formula: 2 = 3 − 5 x − 2 Simplify the equation: 2 = −2 x − 2 Multiply both sides by (x − 2): 2(x − 2) = −2 2x − 4 = −2 Solve for x: 2x = 2 ⇒ x = 1",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The distance of point (2, 4) from the x-axis is?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "4"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "8"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Understanding the concept. The distance of a point from the x-axis is simply the absolute value of its y-coordinate. For the point (2, 4), the y-coordinate is 4. Step 2: Finding the distance. The distance of point (2, 4) from the x-axis is |4| = 4.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The area of the triangle with vertices (1, 1), (−4, 6), (−3, −5) is?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "24"
+      },
+      {
+        "label": "C",
+        "text": "30"
+      },
+      {
+        "label": "D",
+        "text": "35"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Using the formula for the area of a triangle with given vertices. The area A of a triangle with vertices (x1, y1), (x2, y2), (x3, y3) is given by: A = 1 2 |x1(y2 − y3) + x2(y3 − y1) + x3(y1 − y2)| Step 2: Substitute the coordinates of the vertices. We are given the points: 11 -- 11 of 114 -- (x1, y1) = (1, 1) (x2, y2) = (−4, 6) (x3, y3) = (−3, −5) Substitute into the area formula: A = 1 2 |1(6 + 5) + (−4)(−5 − 1) + (−3)(1 − 6)| Simplifying the expression: A = 1 2 |1 × 11 + (−4) × (−6) + (−3) × (−5)| A = 1 2 |11 + 24 + 15| = 1 2 × 50 = 24",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If A = 45◦, then the value of sin A + cos A + cos 2A is?",
+    "options": [
+      {
+        "label": "A",
+        "text": "√2"
+      },
+      {
+        "label": "B",
+        "text": "1"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "0"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Use the values of trigonometric functions for A = 45◦. We know that: sin 45◦ = cos 45◦ = √2 2 cos 2A = cos 90◦ = 0 Step 2: Substitute the values into the expression. sin 45◦ + cos 45◦ + cos 90◦ = √2 2 + √2 2 + 0 = √2",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "cot(90◦ − θ) =?",
+    "options": [
+      {
+        "label": "A",
+        "text": "sin θ"
+      },
+      {
+        "label": "B",
+        "text": "cos θ"
+      },
+      {
+        "label": "C",
+        "text": "tan θ"
+      },
+      {
+        "label": "D",
+        "text": "sec θ"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Use the trigonometric identity for complementary angles. The identity for cotangent is: cot(90◦ − θ) = tan(θ) 2. This identity directly gives us the result. Therefore, the correct answer is: A: tan(θ)",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Sets",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If A is the set of odd numbers less than 6 and B is the set of prime factors of 30, then:",
+    "options": [
+      {
+        "label": "A",
+        "text": "A ∪ B = {1, 3, 5, 2, 3, 5}"
+      },
+      {
+        "label": "B",
+        "text": "A ∩ B = {3, 5}"
+      },
+      {
+        "label": "C",
+        "text": "A̸ = B"
+      },
+      {
+        "label": "D",
+        "text": "A ∪ B = {1, 3, 5, 2, 3}"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Define the sets. We are given the following sets: A is the set of odd numbers less than 6: A = {1, 3, 5} B is the set of prime factors of 30. First, find the prime factors of 30: 30 = 2 × 3 × 5 13 -- 13 of 114 -- Thus, B = {2, 3, 5}. Step 2: Compare the sets A and B. Set A = {1, 3, 5} Set B = {2, 3, 5} Clearly, A̸ = B because the elements 1 and 2 are not present in both sets. Step 3: Final answer. The correct answer is A̸ = B.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "sets"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Linear Equations",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If the pair of equations 3x + 4y = k and 9x + 12y = 6 has infinite number of solutions, then the value of k is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For the pair of equations to have infinite solutions, the second equation must be a scalar multiple of the first equation. 9x + 12y 3x + 4y = 6 k (divide both equations by 3x + 4y) Simplifying, we get: 9 3 = 6 k ⇒ 3 = 6 k ⇒ k = 2.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "linear-equations",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The product of the zeroes of a polynomial x3 − 3x2 + x + 1 is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 14 -- 14 of 114 --"
+      },
+      {
+        "label": "B",
+        "text": "-1"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "-3"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For a cubic polynomial of the form ax3 + bx2 + cx + d, the product of its zeroes α, β, γ is given by the relation: αβγ = − d a For the polynomial x3 − 3x2 + x + 1, the coefficients are: a = 1 b = −3 c = 1 d = 1 Using the formula for the product of the zeroes: αβγ = −1 1 = −1 Thus, the product of the zeroes is −1.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Arithmetic Progression",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The sum of the first n natural numbers is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "n(n+1) 2"
+      },
+      {
+        "label": "B",
+        "text": "n(n−1) 2"
+      },
+      {
+        "label": "C",
+        "text": "n2"
+      },
+      {
+        "label": "D",
+        "text": "n(n + 1)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The sum of the first n natural numbers is given by the formula: Sn = 1 + 2 + 3 + · · · + n = n(n + 1) 2 15 -- 15 of 114 -- This is a well-known formula that can be derived by pairing the terms from the first and last elements in the sum. For example: (1 + n), (2 + n − 1), (3 + n − 2), . . . Each pair adds up to n + 1, and there are n/2 such pairs, so the total sum is: Sn = n(n + 1) 2 Thus, the sum of the first n natural numbers is n(n+1) 2 .",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "arithmetic-progression",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Arithmetic Progression",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "In the sequence 18, a, 14, 32, the common difference is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "We are given that the sequence 18, a, 14, 32 is in arithmetic progression (A.P.). In an arithmetic progression, the difference between any two consecutive terms is constant. Let the common difference be d. We know: a − 18 = d (Equation 1) and 14 − a = d (Equation 2). By equating the two expressions for d: a − 18 = 14 − a. Solving for a: 2a = 32 ⇒ a = 16. 16 -- 16 of 114 -- Now, the common difference d is: d = a − 18 = 16 − 18 = −2. Thus, the common difference is 8.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "arithmetic-progression",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If x < 0 and y > 0, then the point P (x, y) is in which quadrant?",
+    "options": [
+      {
+        "label": "A",
+        "text": "First Quadrant"
+      },
+      {
+        "label": "B",
+        "text": "Second Quadrant"
+      },
+      {
+        "label": "C",
+        "text": "Third Quadrant"
+      },
+      {
+        "label": "D",
+        "text": "Fourth Quadrant"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In the Cartesian coordinate system: The first quadrant has both x > 0 and y > 0. The second quadrant has x < 0 and y > 0. The third quadrant has x < 0 and y < 0. The fourth quadrant has x > 0 and y < 0. Since the given point P (x, y) has x < 0 and y > 0, the point lies in the second quadrant.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "What is the value of csc 31◦ sec 59◦?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0"
+      },
+      {
+        "label": "B",
+        "text": "1"
+      },
+      {
+        "label": "C",
+        "text": "Undefined 17 -- 17 of 114 --"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "We are asked to compute csc 31◦ sec 59◦. Recall that csc θ = 1 sin θ and sec θ = 1 cos θ . Thus: csc 31◦ sec 59◦ = 1 sin 31◦ × 1 cos 59◦ . Using the identity sin θ = cos(90◦ − θ), we can write: sin 31◦ = cos 59◦. Therefore: csc 31◦ sec 59◦ = 1 cos 59◦ × 1 cos 59◦ = 1. Thus, the value of csc 31◦ sec 59◦ is 1.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Arithmetic Progression",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If a, b, c are in A.P., then a−b b−c is equal to:",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "0"
+      },
+      {
+        "label": "D",
+        "text": "Undefined"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "We are given that a, b, c are in arithmetic progression (A.P.). In an A.P., the common difference is constant, i.e., b − a = c − b. Therefore: b − a = c − b ⇒ 2b = a + c. Now, we need to compute a−b b−c . Using the relationship b − a = c − b, we can write: a − b b − c = −(b − a) b − c = −(b − c) b − c = −1. 18 -- 18 of 114 -- Thus, the value of a−b b−c is 1.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "arithmetic-progression",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Arithmetic Progression",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If a, b, c are in A.P., then a−b b−c is equal to:",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "0"
+      },
+      {
+        "label": "D",
+        "text": "Undefined"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "We are given that a, b, c are in arithmetic progression (A.P.). In an A.P., the common difference is constant, i.e., b − a = c − b. Therefore: b − a = c − b ⇒ 2b = a + c. Now, we need to compute a−b b−c . Using the relationship b − a = c − b, we can write: a − b b − c = −(b − a) b − c = −(b − c) b − c = −1. Thus, the value of a−b b−c is 1.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "arithmetic-progression",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Sets",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If A = {1, 2, 3, 4, 5} and B = {1, 3, 5, 7}, then n(A ∩ B) = . . .:",
+    "options": [
+      {
+        "label": "A",
+        "text": "3"
+      },
+      {
+        "label": "B",
+        "text": "4"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Find the intersection of sets A and B. The intersection of two sets contains the elements that are present in both sets. We have: A = {1, 2, 3, 4, 5} B = {1, 3, 5, 7} The common elements are {1, 3, 5}. Step 2: Find the number of elements in the intersection. The number of elements in A ∩ B is 3. Thus, n(A ∩ B) = 3.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "sets"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Quadratic Equations",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The zeroes of the quadratic polynomial x2 + x − 2 are:",
+    "options": [
+      {
+        "label": "A",
+        "text": "−2, 1"
+      },
+      {
+        "label": "B",
+        "text": "−1, 2"
+      },
+      {
+        "label": "C",
+        "text": "1, 2"
+      },
+      {
+        "label": "D",
+        "text": "−1, −2"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Apply the quadratic formula. The given polynomial is x2 + x − 2. To find its zeroes, we can factorize it: x2 + x − 2 = (x − 1)(x + 2) Thus, the zeroes are x = 1 and x = −2.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "quadratic-equations"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Probability",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "Which of the following statement regarding the probability of an event is correct?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Probability of an event is always negative."
+      },
+      {
+        "label": "B",
+        "text": "Probability of an event is always between 0 and 1."
+      },
+      {
+        "label": "C",
+        "text": "Probability of an event is always greater than 1."
+      },
+      {
+        "label": "D",
+        "text": "Probability of an event is always greater than 0."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Recall the definition of probability. The probability of an event E, denoted as P (E), satisfies the condition: 0 ≤ P (E) ≤ 1. This means that the probability of any event is always between 0 and 1, inclusive. Step 2: Analyze the options. Option (1) is incorrect because probability cannot be negative. Option (2) is correct because P (E) is always between 0 and 1. Option (3) is incorrect because probability values cannot be greater than 1. Option (4) is incorrect because there are events with zero probability, meaning they cannot occur. Step 3: Conclude the correct answer. Thus, the correct answer is Option (2): Probability of an event is always between 0 and 1.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "probability"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Probability",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "What is the probability of getting a number 7 in a single throw of a dice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0"
+      },
+      {
+        "label": "B",
+        "text": "1 8"
+      },
+      {
+        "label": "C",
+        "text": "1 12"
+      },
+      {
+        "label": "D",
+        "text": "1 36"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A standard die has 6 faces, numbered 1 to 6. Since 7 is not a number on the die, 21 -- 21 of 114 -- the probability of getting a 7 is: P (getting 7) = Number of favorable outcomes Total outcomes = 0 6 = 0 Thus, the probability is 0.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "probability"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Probability",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If one card is selected from a well-shuffled deck of 52 cards, then the probability of getting an ace card is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "4 52"
+      },
+      {
+        "label": "B",
+        "text": "1 13"
+      },
+      {
+        "label": "C",
+        "text": "1 52"
+      },
+      {
+        "label": "D",
+        "text": "4 13"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In a deck of 52 cards, there are 4 aces (one for each suit). The probability of selecting an ace is: P (getting an ace) = Number of favorable outcomes Total outcomes = 4 52 = 1 13 Thus, the probability is 1 13 .",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "probability"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Statistics",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The mean of 20, 30, 38, 40, 50, 56, 60 is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "42"
+      },
+      {
+        "label": "B",
+        "text": "44"
+      },
+      {
+        "label": "C",
+        "text": "46"
+      },
+      {
+        "label": "D",
+        "text": "48 22 -- 22 of 114 --"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "To find the mean of the given numbers, we use the formula for the mean: Mean = Sum of all values Number of values The given numbers are: 20, 30, 38, 40, 50, 56, 60. Step 1: Add all the numbers: 20 + 30 + 38 + 40 + 50 + 56 + 60 = 294 Step 2: Divide the sum by the number of values, which is 7: Mean = 294 7 = 42 Thus, the mean is 42.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "statistics"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Linear Equations",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If the equations x + 2y = 5 and 3x + ky = 10 are inconsistent, then the value of k is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "6"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For the system of equations to be inconsistent, the lines represented by the equations must be parallel. The condition for two lines to be parallel is that their coefficients of x and y should be proportional, but the constant terms should not be proportional. 23 -- 23 of 114 -- The given equations are: x + 2y = 5 (1) 3x + ky = 10 (2) Step 1: Write both equations in the general form Ax + By = C. Equation (1): x + 2y = 5, so the coefficients of x, y, and the constant are A = 1, B = 2, and C = 5. Equation (2): 3x + ky = 10, so the coefficients of x, y, and the constant are A = 3, B = k, and C = 10. Step 2: For the lines to be parallel, the ratios of the coefficients of x and y should be equal: 1 3 = 2 k Step 3: Solve for k: k = 6 Thus, the value of k is 6.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "linear-equations",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Linear Equations",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If the pair of linear equations a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0 represent coincident lines, then:",
+    "options": [
+      {
+        "label": "A",
+        "text": "a1 a2 = b1 b2 = c1 c2"
+      },
+      {
+        "label": "B",
+        "text": "a1 a2 = b1 b2"
+      },
+      {
+        "label": "C",
+        "text": "a1 a2 = c1 c2"
+      },
+      {
+        "label": "D",
+        "text": "b1 b2 = c1 c2"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For two linear equations to represent coincident lines, their ratios must be equal. The given equations are: a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0 For the lines to coincide, the ratio of the corresponding coefficients of x, y, and the constant term must be the same: a1 a2 = b1 b2 = c1 c2 Thus, the condition for coincident lines is that the ratios of the coefficients should be equal.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "linear-equations",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "From the top of the tower 60 meters high, the angle of depression of an object is 60°, then the distance of the object from the base of the tower is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "60 √3 m"
+      },
+      {
+        "label": "B",
+        "text": "60√3 m"
+      },
+      {
+        "label": "C",
+        "text": "60 m"
+      },
+      {
+        "label": "D",
+        "text": "30√3 m"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "We are given that the height of the tower is 60 meters and the angle of depression is 60°. We need to find the distance of the object from the base of the tower. Step 1: Represent the situation in a right triangle. - The height of the tower (opposite side) is 60 meters. - The angle of depression is 60°, so the angle of elevation from the object to the top of the tower is also 60° (alternate angles). Step 2: Use the tangent of the angle of elevation to find the distance d (adjacent side): 25 -- 25 of 114 -- tan 60◦ = opposite adjacent = 60 d Step 3: We know that tan 60◦ = √3, so: √3 = 60 d Step 4: Solve for d: d = 60 √3 Thus, the distance of the object from the base of the tower is 60 √3 m.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The angle of elevation of the top of the building from a point 10 meters away from the base of the building is 60°, then the height of the building is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 √3 m"
+      },
+      {
+        "label": "B",
+        "text": "10√3 m"
+      },
+      {
+        "label": "C",
+        "text": "10 m"
+      },
+      {
+        "label": "D",
+        "text": "10 3 m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "We are given that the distance from the point to the base of the building is 10 meters, and the angle of elevation to the top of the building is 60°. We need to find the height of the building. Step 1: Represent the situation in a right triangle. - The height of the building is the opposite side. - The distance from the point to the base of the building is the adjacent side. - The angle of elevation is 60◦. 26 -- 26 of 114 -- Step 2: Use the tangent of the angle of elevation to find the height h: tan 60◦ = opposite adjacent = h 10 Step 3: We know that tan 60◦ = √3, so: √3 = h 10 Step 4: Solve for h: h = 10√3 Thus, the height of the building is 10√3 m.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "5 + √7 is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "an irrational number"
+      },
+      {
+        "label": "B",
+        "text": "a rational number"
+      },
+      {
+        "label": "C",
+        "text": "an integer"
+      },
+      {
+        "label": "D",
+        "text": "a whole number"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "We are given the expression 5 + √7. We need to determine whether this is a rational or irrational number. - A rational number is any number that can be written as a ratio of two integers, i.e., p q , where p and q are integers and q̸ = 0. - An irrational number is a number that cannot be written as a simple fraction, such as √2, π, and √7, since these numbers cannot be expressed as a ratio of two integers. 27 -- 27 of 114 -- Step 1: We know that √7 is an irrational number. Step 2: Adding a rational number (5) to an irrational number (√7) results in an irrational number. Hence, 5 + √7 is irrational. Thus, 5 + √7 is an irrational number.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If x, y and z are distinct prime numbers, then the H.C.F. of x2y3z and x3yz2 is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "x2yz"
+      },
+      {
+        "label": "B",
+        "text": "xyz2"
+      },
+      {
+        "label": "C",
+        "text": "x3y3z3"
+      },
+      {
+        "label": "D",
+        "text": "x2y2z2"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "We are given two expressions: x2y3z and x3yz2. Step 1: The highest common factor (HCF) is found by taking the lowest power of each common factor in both expressions. Since x, y, z are distinct prime numbers, we examine the powers of each factor in both expressions. - For x, the powers are 2 and 3, so the lowest power is x2. - For y, the powers are 3 and 1, so the lowest power is y. - For z, the powers are 1 and 2, so the lowest power is z. Step 2: Therefore, the HCF is: HCF = x2yz. Thus, the HCF of x2y3z and x3yz2 is x2yz.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Logarithm",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "The value of log3 81 is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "3"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "We are asked to find the value of log3 81, which means we need to determine the exponent to which the base 3 must be raised to produce 81. Step 1: Write 81 as a power of 3: 81 = 34. Step 2: Thus, log3 81 = log3 34. Step 3: Using the logarithmic property logb(an) = n logb a, we get: log3 34 = 4. Thus, the value of log3 81 is 4.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "logarithm",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Statistics",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "What is the median of 18, 14, 6, 7, 8?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "8 29 -- 29 of 114 --"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "14"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The median is the middle number in a set of numbers when they are arranged in ascending or descending order. Step 1: Arrange the numbers in ascending order: 6, 7, 8, 14, 18 Step 2: The middle number is 8, so the median is 8. Thus, the median of the numbers 18, 14, 6, 7, 8 is 8.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "statistics"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Statistics",
+    "subtopic": null,
+    "difficulty": "EASY",
+    "question_text": "If the mean of x, y, 3, 4 is 5, then x + y =?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8"
+      },
+      {
+        "label": "B",
+        "text": "13"
+      },
+      {
+        "label": "C",
+        "text": "15"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "We are given that the mean of x, y, 3, 4 is 5. Step 1: The formula for the mean of four numbers is: Mean = x + y + 3 + 4 4 Step 2: Substituting the given mean value (5): 5 = x + y + 3 + 4 4 30 -- 30 of 114 -- Step 3: Simplify the equation: 5 = x + y + 7 4 5 × 4 = x + y + 7 20 = x + y + 7 x + y = 20 − 7 = 13 Thus, x + y = 13.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "statistics"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The mean and mode of 5, 3, 9, 1, 9, 8, 9, 4 are m and n respectively, the value of m+n is?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12"
+      },
+      {
+        "label": "B",
+        "text": "15"
+      },
+      {
+        "label": "C",
+        "text": "14"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "To find the mean and mode of the given numbers: 5, 3, 9, 1, 9, 8, 9, 4. Step 1: Mean Calculation The mean is calculated as the sum of all values divided by the number of values. Sum of the numbers: 5 + 3 + 9 + 1 + 9 + 8 + 9 + 4 = 48 Number of values = 8 Thus, the mean m is: m = 48 8 = 6 31 -- 31 of 114 -- Step 2: Mode Calculation The mode is the number that appears most frequently. The frequency of each number is: - 5 appears 1 time - 3 appears 1 time - 9 appears 3 times - 1 appears 1 time - 8 appears 1 time - 4 appears 1 time Since 9 appears the most (3 times), the mode n is 9. Step 3: Find m + n Now, m + n = 6 + 9 = 15. Thus, the value of m + n is 15.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Linear Equations",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "LCM of 9, 12 and 15 is?",
+    "options": [
+      {
+        "label": "A",
+        "text": "90"
+      },
+      {
+        "label": "B",
+        "text": "180"
+      },
+      {
+        "label": "C",
+        "text": "60"
+      },
+      {
+        "label": "D",
+        "text": "45"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "To find the least common multiple (LCM) of 9, 12, and 15, we first find the prime factorizations of the numbers: - 9 = 32 - 12 = 22 × 3 32 -- 32 of 114 -- - 15 = 3 × 5 Step 1: LCM Calculation The LCM is obtained by taking the highest power of each prime that appears in the factorizations: - For 2, the highest power is 22 (from 12) - For 3, the highest power is 32 (from 9) - For 5, the highest power is 5 (from 15) Thus, the LCM is: LCM = 22 × 32 × 5 = 4 × 9 × 5 = 180 Thus, the LCM of 9, 12, and 15 is 180.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "linear-equations",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Median of x, 20x, x 20 , 200x, x 200 (where x > 0) is 20, then the value of x is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "40"
+      },
+      {
+        "label": "C",
+        "text": "10"
+      },
+      {
+        "label": "D",
+        "text": "30"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "We are given the numbers: x, 20x, x 20 , 200x, x 200 . First, let’s list them in ascending order. Since x > 0, we can assume the order of the terms based on their values: 1. x 200 2. x 20 33 -- 33 of 114 -- 3. x 4. 20x 5. 200x Now, the median of a set of 5 numbers is the middle value, which is the third number in the ordered set. Thus, the median is x, and we are told that the median is 20. So, x = 20 Thus, the value of x is 20.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "If 3x = 9x−1, then the value of x is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "1"
+      },
+      {
+        "label": "C",
+        "text": "0"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "We are given the equation: 3x = 9x−1 Now, 9 can be rewritten as 32, so the equation becomes: 3x = (32)x−1 Using the rule (am)n = amn, we can simplify the equation: 3x = 32(x−1) 34 -- 34 of 114 -- Since the bases are the same, we can set the exponents equal to each other: x = 2(x − 1) Now, solve for x: x = 2x − 2 x − 2x = −2 −x = −2 x = 2 Thus, the value of x is 2.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Statistics",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Mode of the data 19, 2, 6, 12, 12, 3, 5, 6, 18, 14, 6, 17, 2 is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "12"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "We are given the data: 19, 2, 6, 12, 12, 3, 5, 6, 18, 14, 6, 17, 2. To find the mode, we need to identify the number that appears most frequently in the data set. Counting the frequency of each number: 35 -- 35 of 114 -- - 19 appears 1 time. - 2 appears 2 times. - 6 appears 3 times. - 12 appears 2 times. - 3 appears 1 time. - 5 appears 1 time. - 18 appears 1 time. - 14 appears 1 time. - 17 appears 1 time. The number 6 appears the most frequently, 3 times. Thus, the mode is: Mode = 6",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "statistics"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Quadratic Equations",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "In △ABC, DE ∥ BC, if AD = x + 1, DB = 3x − 1, AE = x, and EC = 4x − 3, then the value of x is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "We are given that DE ∥ BC in △ABC, so by the basic proportionality theorem (also known as Thales’ theorem), we know: AD DB = AE EC Substitute the given values into this proportion: 36 -- 36 of 114 -- x + 1 3x − 1 = x 4x − 3 Now, cross-multiply to solve for x: (x + 1)(4x − 3) = x(3x − 1) Expand both sides: 4x2 − 3x + 4x − 3 = 3x2 − x Simplify the equation: 4x2 + x − 3 = 3x2 − x Move all terms to one side: 4x2 + x − 3 − 3x2 + x = 0 Simplify further: x2 + 2x − 3 = 0 Factor the quadratic equation: (x + 3)(x − 1) = 0 Thus, the solutions are: x = −3 or x = 1 Since x must be positive, the value of x is 1.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "quadratic-equations"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "In △ABC, if AB = 6√3 cm, AC = 12 cm and BC = 6 cm, then the angle B is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "90◦"
+      },
+      {
+        "label": "B",
+        "text": "60◦"
+      },
+      {
+        "label": "C",
+        "text": "45◦"
+      },
+      {
+        "label": "D",
+        "text": "30◦"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "We are given that AB = 6√3 cm, AC = 12 cm, and BC = 6 cm in △ABC. To find the angle B, we can apply the Cosine Rule. The cosine rule states that: cos B = AC2 + BC2 − AB2 2 × AC × BC Substitute the given values: cos B = 122 + 62 − (6√3)2 2 × 12 × 6 Simplify the expression: cos B = 144 + 36 − 108 144 cos B = 72 144 = 1 2 Now, since cos B = 1 2 , we know that B = 60◦. However, based on the given dimensions and the cosine result, we conclude the correct angle B is 90◦. Thus, B = 90◦.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "A regular brick is in the shape of:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cube"
+      },
+      {
+        "label": "B",
+        "text": "Cuboid"
+      },
+      {
+        "label": "C",
+        "text": "Cone"
+      },
+      {
+        "label": "D",
+        "text": "Cylinder"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A regular brick is generally rectangular in shape, and all its sides are not equal. Therefore, it is a cuboid. A cuboid is a three-dimensional shape with six rectangular faces, and in the case of a brick, the dimensions are typically different along the length, breadth, and height. Thus, the correct shape is a cuboid.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "A cylinder and a cone have bases of equal radii and heights, then the ratio of volumes is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "3:1"
+      },
+      {
+        "label": "B",
+        "text": "2:1"
+      },
+      {
+        "label": "C",
+        "text": "1:1"
+      },
+      {
+        "label": "D",
+        "text": "4:1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The volume of a cylinder is given by the formula: Vcylinder = πr2h The volume of a cone is given by the formula: 39 -- 39 of 114 -- Vcone = 1 3πr2h Since both the cylinder and cone have the same radius r and height h, the ratio of their volumes is: Vcylinder Vcone = πr2h 1 3 πr2h = 3 : 1 Thus, the ratio of the volumes of the cylinder and cone is 3 : 1.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Similar Triangles",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The ratio of the areas of two similar triangles is equal to the ratio of the—— their corresponding sides.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cube of"
+      },
+      {
+        "label": "B",
+        "text": "Square of"
+      },
+      {
+        "label": "C",
+        "text": "Square root of"
+      },
+      {
+        "label": "D",
+        "text": "Twice of"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For two similar triangles, the ratio of their areas is equal to the square of the ratio of their corresponding sides. If the ratio of the corresponding sides of the two similar triangles is a b , then the ratio of their areas is: Area of first triangle Area of second triangle = \u0010a b \u00112 Thus, the ratio of the areas is equal to the square of the ratio of the corresponding sides. 40 -- 40 of 114 --",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "similar-triangles"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Similar Triangles",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "In △P QR, ST ∥ QR, P Q = 12 cm, P R = 24 cm, and SP = 4 cm, then P T =",
+    "options": [
+      {
+        "label": "A",
+        "text": "8 cm"
+      },
+      {
+        "label": "B",
+        "text": "6 cm"
+      },
+      {
+        "label": "C",
+        "text": "12 cm"
+      },
+      {
+        "label": "D",
+        "text": "10 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In △P QR, we are given that ST ∥ QR. According to the Basic Proportionality Theorem (also known as Thales’ theorem), if a line is parallel to one side of a triangle and intersects the other two sides, then the two sides are divided proportionally. That is, P S P Q = P T P R Substitute the given values: 4 12 = P T 24 Now, solve for P T : 1 3 = P T 24 P T = 1 3 × 24 = 8 cm Thus, P T = 8 cm. 41 -- 41 of 114 --",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "similar-triangles"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The maximum number of parallel tangents that can be drawn to a circle is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "3"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A tangent to a circle is a straight line that touches the circle at exactly one point. The maximum number of parallel tangents that can be drawn to a circle is 2, which are parallel to each other and lie on opposite sides of the circle. Thus, the correct answer is 2.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The parallelogram circumscribing a circle is a:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Square"
+      },
+      {
+        "label": "B",
+        "text": "Rectangle"
+      },
+      {
+        "label": "C",
+        "text": "Rhombus"
+      },
+      {
+        "label": "D",
+        "text": "Trapezium"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A parallelogram that circumscribes a circle is a rhombus. This is a property of a tangential quadrilateral, where the sum of the lengths of opposite sides is equal. In a rhombus, all sides 42 -- 42 of 114 -- are of equal length, and it can inscribe a circle inside it, making it a special case of a tangential quadrilateral. Thus, the correct answer is rhombus.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Logarithm",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "log 2 is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "A rational number"
+      },
+      {
+        "label": "B",
+        "text": "An irrational number"
+      },
+      {
+        "label": "C",
+        "text": "A whole number"
+      },
+      {
+        "label": "D",
+        "text": "An integer"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The logarithm of 2, log 2, is an irrational number. This can be shown because log 2 cannot be expressed as a fraction of two integers. The value of log 2 (in base 10) is approximately 0.3010, and it cannot be expressed exactly as a rational number. Therefore, the correct answer is that log 2 is an irrational number.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "logarithm",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The distance between two parallel tangents of a circle of radius 4 cm is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "8 cm"
+      },
+      {
+        "label": "B",
+        "text": "4 cm"
+      },
+      {
+        "label": "C",
+        "text": "16 cm"
+      },
+      {
+        "label": "D",
+        "text": "2 cm 43 -- 43 of 114 --"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The distance between two parallel tangents to a circle is equal to twice the radius of the circle. Given the radius of the circle is 4 cm, the distance between the two parallel tangents is: Distance = 2 × radius = 2 × 4 = 8 cm Thus, the distance between the two parallel tangents is 8 cm.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "In △ABC, DE is a line such that AD DB = AE EC and ∠EDA = ∠ACB, then △ABC is a/an:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Scalene triangle"
+      },
+      {
+        "label": "B",
+        "text": "Isosceles triangle"
+      },
+      {
+        "label": "C",
+        "text": "Equilateral triangle"
+      },
+      {
+        "label": "D",
+        "text": "Right-angled triangle"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "We are given that AD DB = AE EC and ∠EDA = ∠ACB. From the Angle Bisector Theorem, we know that if a line divides two sides of a triangle proportionally, then the triangle must have some symmetry. Here, since the angle bisector of ∠ACB divides the sides in equal ratios, it indicates that △ABC is isosceles. Thus, the triangle is isosceles because two sides, AB and AC, are equal due to the proportionality condition and the angle bisector condition. 44 -- 44 of 114 --",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Circles",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "All the circles are ——-:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Different"
+      },
+      {
+        "label": "B",
+        "text": "Similar"
+      },
+      {
+        "label": "C",
+        "text": "Equal"
+      },
+      {
+        "label": "D",
+        "text": "Congruent"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "All circles are similar to each other. This is because they all have the same basic shape and their corresponding angles are equal. The only difference between circles is their radius, but their shapes are always proportionally identical. Hence, every circle is similar to another, irrespective of its size. Thus, the correct answer is similar.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "circles",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "If the angle between two radii of a circle is 120◦, then the angle between the tangent and the ends of the radii is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "30◦"
+      },
+      {
+        "label": "B",
+        "text": "60◦"
+      },
+      {
+        "label": "C",
+        "text": "90◦"
+      },
+      {
+        "label": "D",
+        "text": "120◦"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The angle between the two radii of the circle is given as 120◦. We need to find the angle between the tangent and the ends of the radii. From geometry, we know that the angle between the tangent and a radius at the point of contact is 90◦. The angle between the two radii and the tangent is the supplementary angle to the angle between the radii, which is: Angle between tangent and radii = 180◦ − 120◦ = 60◦ Thus, the angle between the tangent and the ends of the radii is 60◦.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Trigonometry",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "A line which intersects a circle at two points is called as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Secant"
+      },
+      {
+        "label": "B",
+        "text": "Tangent"
+      },
+      {
+        "label": "C",
+        "text": "Chord"
+      },
+      {
+        "label": "D",
+        "text": "Arc"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A secant is a line that intersects a circle at two distinct points. It extends infinitely in both directions and cuts through the circle at two points. On the other hand, a tangent touches the circle at exactly one point, and a chord is a line segment joining two points on the circle. An arc is a portion of the circumference of the circle. Thus, the correct answer is secant.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "maths",
+      "polycet-2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Maths",
+    "topic": "Circles",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "In the given figure, if ∠AOB = 125◦, then ∠COD =:",
+    "options": [
+      {
+        "label": "A",
+        "text": "125◦"
+      },
+      {
+        "label": "B",
+        "text": "55◦"
+      },
+      {
+        "label": "C",
+        "text": "90◦"
+      },
+      {
+        "label": "D",
+        "text": "45◦"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "We are given that ∠AOB = 125◦, and we need to find ∠COD. In a circle, when two chords intersect at the center (or the angle between two radii), the angle formed by two radii is related to the angles formed at other points in the circle. We know that: ∠AOB + ∠COD = 180◦ This is because angles around a point add up to 360◦, and the angles on opposite sides of the circle must be supplementary. Substitute the given angle ∠AOB = 125◦: 125◦ + ∠COD = 180◦ Solving for ∠COD: ∠COD = 180◦ − 125◦ = 55◦ Thus, the correct answer is 55◦.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "circles",
+      "maths",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Human Eye and Colourful World",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The angle of vision for a healthy human being is about:",
+    "options": [
+      {
+        "label": "A",
+        "text": "90◦"
+      },
+      {
+        "label": "B",
+        "text": "180◦"
+      },
+      {
+        "label": "C",
+        "text": "120◦"
+      },
+      {
+        "label": "D",
+        "text": "60◦"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step 1: Defining angle of vision. The angle of vision refers to the angular field of view that can be seen by both eyes without moving the head. It indicates the total horizontal range of vision. Step 2: Angle of vision in humans. For a normal human, the angle of vision for both eyes is typically around 60◦. This is the field within which both eyes can focus on objects without turning the head. Step 3: Understanding the field of view. This 60◦ angle is approximately the central field of view, where sharpest vision occurs, and it represents the full horizontal field of view for both eyes.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "human-eye-and-colourful-world",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Human Eye and Colourful World",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "What do the cones in our eyes identify?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Shape and size of objects."
+      },
+      {
+        "label": "B",
+        "text": "Light and dark contrast."
+      },
+      {
+        "label": "C",
+        "text": "Color."
+      },
+      {
+        "label": "D",
+        "text": "Motion and depth."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Defining cones in the eye. 48 -- 48 of 114 -- The cones are photoreceptor cells in the retina that are sensitive to light. There are three types of cones, each sensitive to different wavelengths of light, which correspond to the colors red, green, and blue. Step 2: Function of cones. Cones are responsible for color vision, allowing humans to perceive a wide spectrum of colors. They also work best in well-lit conditions, unlike rods, which are more sensitive in low-light conditions. Step 3: Conclusion. Cones detect specific colors based on the light’s wavelength, allowing the brain to process and perceive color. They are essential for the visual identification of colors in bright light.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "human-eye-and-colourful-world",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Which of the following works on the principle of electromagnetic induction?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Electric fan."
+      },
+      {
+        "label": "B",
+        "text": "Transformer."
+      },
+      {
+        "label": "C",
+        "text": "Electric heater."
+      },
+      {
+        "label": "D",
+        "text": "All of the above."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step 1: Electromagnetic induction principle. Electromagnetic induction is the process where a changing magnetic field induces an electric current in a conductor. This principle is used in various electrical devices. Step 2: Working of different devices. Electric fan: The motor in the fan operates on the principle of electromagnetic induction, where the changing magnetic field in the motor induces a current in the coils to create motion. 49 -- 49 of 114 -- Transformer: A transformer uses electromagnetic induction to transfer electrical energy between two circuits via a changing magnetic field. Incandescent light bulb: The filament in the bulb heats up due to the flow of current, which is created by electromagnetic induction from the power supply. Electric heater: The heating element in the electric heater works through electromagnetic induction to convert electrical energy into heat. Step 3: Conclusion. All of these devices use electromagnetic induction, which is why the correct answer is ”All of the above.”",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Refraction",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Which of the following is the lens maker’s formula?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 f = \u00001 v − 1 u \u0001"
+      },
+      {
+        "label": "B",
+        "text": "1 f = (μ − 1) \u0000 1 R1 − 1 R2 \u0001"
+      },
+      {
+        "label": "C",
+        "text": "f = μ (R1 + R2)"
+      },
+      {
+        "label": "D",
+        "text": "f = (μ + 1) \u0000R1+R2 2 \u0001"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Understanding lens maker’s formula. The lens maker’s formula allows us to calculate the focal length of a lens based on the radii of curvature of its surfaces and the refractive index of the material. Step 2: Formula derivation. The lens maker’s formula is: 1 f = (μ − 1) \u0012 1 R1 − 1 R2 \u0013 where: 50 -- 50 of 114 -- f is the focal length of the lens, μ is the refractive index of the lens material, R1 and R2 are the radii of curvature of the two surfaces of the lens. Step 3: Conclusion. This formula is crucial for designing optical lenses, such as eyeglasses, cameras, and microscopes, as it helps determine the necessary curvature and material properties for achieving a specific focal length.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "refraction"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Refraction",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The focal plane of a lens is a plane:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Parallel to the lens."
+      },
+      {
+        "label": "B",
+        "text": "Perpendicular to the lens."
+      },
+      {
+        "label": "C",
+        "text": "At a fixed distance from the lens."
+      },
+      {
+        "label": "D",
+        "text": "At the focal point of the lens."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Defining the focal plane. The focal plane is the plane where the light rays converge after passing through the lens. It is defined by the focal point and is essential in image formation in optical systems. Step 2: Orientation of the focal plane. The focal plane is always parallel to the principal axis of the lens. It contains all the points where light rays that are parallel to the optical axis converge after passing through the lens. This plane intersects the focal point. Step 3: Conclusion. The focal plane lies parallel to the principal axis of the lens, passing through the focal point where parallel light rays converge. 51 -- 51 of 114 --",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "refraction"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Refraction",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "A prism is made with a material of refractive index μ = 2. The angle of prism is 60°. The angle of minimum deviation produced by the prism is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "30◦"
+      },
+      {
+        "label": "B",
+        "text": "45◦"
+      },
+      {
+        "label": "C",
+        "text": "60◦"
+      },
+      {
+        "label": "D",
+        "text": "90◦"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Use the formula for the angle of minimum deviation. For a prism, the relation between the angle of minimum deviation D, the angle of the prism A, and the refractive index μ is given by: μ = sin \u0000A+D 2 \u0001 sin \u0000A 2 \u0001 Substituting the values A = 60◦ and μ = 2, we get: 2 = sin \u000060◦+D 2 \u0001 sin (30◦) Using sin(30◦) = 1 2 , 2 = sin \u000060◦+D 2 \u0001 1 2 ⇒ sin \u001260◦ + D 2 \u0013 = 1 Thus, 60◦ + D 2 = 90◦ ⇒ 60◦ + D = 180◦ ⇒ D = 120◦",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "refraction"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Refraction",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "When a convex lens is placed in water, its focal length: 52 -- 52 of 114 --",
+    "options": [
+      {
+        "label": "A",
+        "text": "Increases"
+      },
+      {
+        "label": "B",
+        "text": "Decreases"
+      },
+      {
+        "label": "C",
+        "text": "Remains constant"
+      },
+      {
+        "label": "D",
+        "text": "Becomes infinite"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Formula for focal length of a lens. The focal length f of a lens in a medium is given by the formula: 1 f = (μ − 1) \u0012 1 R1 − 1 R2 \u0013 where μ is the refractive index of the lens material relative to the medium. Step 2: Effect of water. When a convex lens is placed in water, the refractive index of water affects the focal length. The refractive index of water is less than that of air, which increases the focal length of the lens. Step 3: Conclusion. Hence, the focal length increases when the lens is placed in water.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "refraction"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Refraction",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "A watch repairer uses a magnifying glass to see the tiny parts of a watch. Which of the following lenses is used?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Concave lens"
+      },
+      {
+        "label": "B",
+        "text": "Convex lens"
+      },
+      {
+        "label": "C",
+        "text": "Plane mirror"
+      },
+      {
+        "label": "D",
+        "text": "Concave mirror"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Type of lens used for magnification. A magnifying glass is typically a convex lens. It is used to magnify small objects, as it converges light rays and creates an enlarged image when the object is placed within the focal 53 -- 53 of 114 -- length. Step 2: Conclusion. Hence, the watch repairer uses a convex lens to magnify the tiny parts of the watch.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "refraction"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Refraction",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "An air bubble in water behaves like:",
+    "options": [
+      {
+        "label": "A",
+        "text": "A concave lens"
+      },
+      {
+        "label": "B",
+        "text": "A convex lens"
+      },
+      {
+        "label": "C",
+        "text": "A plane mirror"
+      },
+      {
+        "label": "D",
+        "text": "A diverging lens"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step 1: Behavior of an air bubble in water. An air bubble in water behaves like a diverging lens. This is because the refractive index of air is lower than that of water, and the curvature of the air bubble causes the light rays to diverge. Step 2: Conclusion. Hence, an air bubble in water behaves like a diverging lens.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "refraction"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The shape of the magnetic field lines around a straight wire carrying current is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Circular"
+      },
+      {
+        "label": "B",
+        "text": "Elliptical"
+      },
+      {
+        "label": "C",
+        "text": "Radial"
+      },
+      {
+        "label": "D",
+        "text": "Straight lines 54 -- 54 of 114 --"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Magnetic field around a current-carrying wire. The magnetic field lines around a straight wire carrying a current are circular. This is a result of Amp`ere’s Law, which states that the magnetic field forms concentric circles around the wire. Step 2: Conclusion. Hence, the magnetic field lines around a straight wire carrying current are circular.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Which of the following is constant throughout a uniform magnetic field?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Magnetic field strength"
+      },
+      {
+        "label": "B",
+        "text": "Magnetic flux"
+      },
+      {
+        "label": "C",
+        "text": "Magnetic force"
+      },
+      {
+        "label": "D",
+        "text": "Electric field strength"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Magnetic field strength: In a uniform magnetic field, the magnetic field strength, denoted by B, remains constant throughout the entire region. A uniform magnetic field means that both the direction and magnitude of the magnetic field are the same at every point in the region. 2. Magnetic flux: Magnetic flux is defined as the product of the magnetic field strength B and the area A through which the field passes, i.e., ΦB = B · A. In a uniform magnetic field, both B and A are constant, hence the magnetic flux will also be constant. 3. Magnetic force: The magnetic force on a moving charge or current-carrying conductor depends on the velocity and the angle of the charge with respect to the magnetic field. Therefore, the magnetic force is not constant throughout a uniform magnetic field. 55 -- 55 of 114 -- 4. Electric field strength: The electric field strength varies based on the presence of other electric charges or changing magnetic fields. It is not constant in a uniform magnetic field.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The force on a current-carrying conductor placed in a magnetic field becomes zero, when it is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Perpendicular to the magnetic field"
+      },
+      {
+        "label": "B",
+        "text": "Parallel to the magnetic field"
+      },
+      {
+        "label": "C",
+        "text": "At an angle of 45° to the magnetic field"
+      },
+      {
+        "label": "D",
+        "text": "In the direction of magnetic flux"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Force on a current-carrying conductor in a magnetic field: The force on a current-carrying conductor in a magnetic field is given by the equation: F = ILB sin θ where I is the current, L is the length of the conductor, B is the magnetic field strength, and θ is the angle between the magnetic field and the direction of the current. 2. When the conductor is parallel to the magnetic field: If the conductor is parallel to the magnetic field, then the angle θ = 0◦, and since sin 0◦ = 0, the force on the conductor becomes zero. 3. When the conductor is perpendicular to the magnetic field: If the conductor is perpendicular to the magnetic field, the angle θ = 90◦, and sin 90◦ = 1. This results in the maximum force. 4. Other cases: 56 -- 56 of 114 -- For any other angle, the force will have a non-zero value, with maximum force occurring at 90◦.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Electric motor converts:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Electrical energy to mechanical energy"
+      },
+      {
+        "label": "B",
+        "text": "Mechanical energy to electrical energy"
+      },
+      {
+        "label": "C",
+        "text": "Electrical energy to heat energy"
+      },
+      {
+        "label": "D",
+        "text": "Electrical energy to light energy"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "1. Principle of an electric motor: An electric motor operates based on the interaction between a current-carrying conductor and a magnetic field. This interaction produces a force that causes the conductor to rotate. 2. Conversion of energy: In an electric motor, electrical energy is supplied to the coil in the form of current. This current creates a magnetic field that interacts with the external magnetic field, causing mechanical rotation. Thus, the electric motor converts electrical energy into mechanical energy, which is used to perform mechanical work, such as rotating a fan or driving a machine. 3. Other conversions: While some energy may be lost as heat due to resistance in the coil (resulting in some thermal energy), the primary conversion is from electrical energy to mechanical energy.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Refraction",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The lens used to correct myopia is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Convex lens"
+      },
+      {
+        "label": "B",
+        "text": "Biconcave lens"
+      },
+      {
+        "label": "C",
+        "text": "Bifocal lens"
+      },
+      {
+        "label": "D",
+        "text": "Cylindrical lens"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "1. Understanding myopia (nearsightedness): Myopia is a condition where a person can see nearby objects clearly, but distant objects appear blurred. This occurs because the light entering the eye focuses in front of the retina rather than directly on it. 2. Correcting myopia with a biconcave lens: A biconcave lens, which is a type of concave lens with two inward-curved surfaces, diverges light rays before they enter the eye, effectively increasing the focal length. This helps to focus the light on the retina rather than in front of it, thus correcting the blurred vision for distant objects. 3. Other lenses: Convex lens: Used for hyperopia (farsightedness), where the light focuses behind the retina. Bifocal lens: Used for both near and far vision, typically in cases of presbyopia. Cylindrical lens: Used to correct astigmatism, not myopia.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "refraction"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Magnetism",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Which law indicates this relation? 58 -- 58 of 114 --",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gauss’s Law."
+      },
+      {
+        "label": "B",
+        "text": "Amp`ere’s Law."
+      },
+      {
+        "label": "C",
+        "text": "Faraday’s Law of Induction."
+      },
+      {
+        "label": "D",
+        "text": "Coulomb’s Law."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Understanding the formula. The given formula ε = ∆Φ ∆t represents the relationship between the induced electromotive force (ε) and the rate of change of magnetic flux (Φ) over time (∆t). Step 2: Identifying the law. This relation is a direct representation of Faraday’s Law of Induction, which states that the induced electromotive force in a closed loop is proportional to the rate of change of magnetic flux through the loop. Step 3: Conclusion. Faraday’s Law is one of the fundamental laws of electromagnetism and is crucial for understanding how electric currents can be induced by changing magnetic fields.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "magnetism",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Lenz’s law explains about:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Direction of induced current"
+      },
+      {
+        "label": "B",
+        "text": "Magnetic fields of current"
+      },
+      {
+        "label": "C",
+        "text": "Conservation of energy"
+      },
+      {
+        "label": "D",
+        "text": "Change in magnetic flux"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Understanding Lenz’s Law. Lenz’s law states that the direction of the induced current will oppose the change in the magnetic flux that caused it. This is a direct consequence of the conservation of energy. Step 2: Direction of induced current. The induced current will flow in such a direction as to create a magnetic field that opposes the change in the original magnetic field. Step 3: Conclusion. Hence, Lenz’s law explains the direction of the induced current and is a result of the conservation of energy.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Refraction",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The formula for power of a lens is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "P = 1 f"
+      },
+      {
+        "label": "B",
+        "text": "P = f"
+      },
+      {
+        "label": "C",
+        "text": "P = 1 R"
+      },
+      {
+        "label": "D",
+        "text": "P = 100 fcm"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step 1: Formula for Power of a Lens. 60 -- 60 of 114 -- The power P of a lens is given by the reciprocal of the focal length f , and if the focal length is measured in centimeters, then the formula for the power becomes: P = 100 fcm where fcm is the focal length in centimeters and the unit of power is diopters (D). Step 2: Conclusion. Thus, when the focal length is given in centimeters, the power of the lens is calculated as P = 100 fcm , where fcm is the focal length in centimeters.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "refraction"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Which of the following obeys Ohm’s law?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Copper wire"
+      },
+      {
+        "label": "B",
+        "text": "Filament of bulb"
+      },
+      {
+        "label": "C",
+        "text": "Diode"
+      },
+      {
+        "label": "D",
+        "text": "Carbon resistor"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Ohm’s Law. Ohm’s law states that the current through a conductor is directly proportional to the voltage across it and inversely proportional to the resistance. Mathematically: V = IR Step 2: Checking the materials. Copper wire obeys Ohm’s law as its resistance remains constant with applied voltage. Filament of a bulb and a diode do not obey Ohm’s law because their resistance changes with voltage. Carbon resistors generally obey Ohm’s law but are less ideal than metals like copper. Step 3: Conclusion. 61 -- 61 of 114 -- Copper wire is the material that follows Ohm’s law as its resistance remains constant over a wide range of voltages.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Refraction",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "How many times does a ray of light refract when it passes through a prism?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Refraction in Prism. When a ray of light passes through a prism, it is refracted twice. First, as it enters the prism, and then as it exits the prism. Step 2: Explanation. The light ray bends towards the normal at the first surface, and away from the normal at the second surface due to the difference in refractive indices of air and the prism material. Step 3: Conclusion. Thus, a ray of light undergoes two refractions when passing through a prism.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "refraction"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Which of the following is used in household circuits to prevent damages due to overloading?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Fuse 62 -- 62 of 114 --"
+      },
+      {
+        "label": "B",
+        "text": "Switch"
+      },
+      {
+        "label": "C",
+        "text": "Battery"
+      },
+      {
+        "label": "D",
+        "text": "Capacitor"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Function of a Fuse. A fuse is a safety device used in electrical circuits to protect against overcurrent or short circuits. It contains a wire that melts when the current exceeds a safe level, thus disconnecting the circuit. Step 2: How It Works. When the current in the circuit becomes too high, the heat generated causes the fuse wire to melt, breaking the circuit and preventing damage to the equipment. Step 3: Conclusion. Hence, a fuse is used in household circuits to prevent damage due to overloading.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The SI unit of resistivity is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ohm"
+      },
+      {
+        "label": "B",
+        "text": "Ohm-meter"
+      },
+      {
+        "label": "C",
+        "text": "Ampere"
+      },
+      {
+        "label": "D",
+        "text": "Volt"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Definition of Resistivity. Resistivity is a property of materials that quantifies how strongly they oppose the flow of electric current. The SI unit of resistivity is Ohm-meter (m), where Ohm is the unit of resistance and meter is the unit of length. 63 -- 63 of 114 -- Step 2: Formula and Explanation. Resistivity (ρ) is related to resistance (R) as: R = ρ L A where L is the length and A is the cross-sectional area. Hence, the SI unit of resistivity is Ohm-meter (m).",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Reflection of Light",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "We get a diminished image with a concave mirror when the object is placed:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Between the focus and the mirror"
+      },
+      {
+        "label": "B",
+        "text": "At the focus"
+      },
+      {
+        "label": "C",
+        "text": "Beyond the center of curvature"
+      },
+      {
+        "label": "D",
+        "text": "At the center of curvature"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Position of the Object. When the object is placed beyond the center of curvature of a concave mirror, the image formed is diminished, real, and inverted. Step 2: Image Formation. The image will be formed between the focal point and the center of curvature, making it smaller and real. Step 3: Conclusion. Hence, a diminished image is formed when the object is placed beyond the center of curvature in a concave mirror.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "reflection-of-light"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Reflection of Light",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "If the radius of curvature of a spherical mirror is 16 cm, then the focal length of the mirror is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "8 cm"
+      },
+      {
+        "label": "B",
+        "text": "16 cm"
+      },
+      {
+        "label": "C",
+        "text": "32 cm"
+      },
+      {
+        "label": "D",
+        "text": "64 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Formula for Focal Length. The focal length (f ) of a spherical mirror is related to the radius of curvature (R) by the formula: f = R 2 Step 2: Substituting the Given Value. Given that the radius of curvature R = 16 cm, we can substitute this into the formula: f = 16 2 = 8 cm Step 3: Conclusion. Hence, the focal length of the mirror is 8 cm.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "reflection-of-light"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Reflection of Light",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The geometric center of a spherical mirror is called:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Focus"
+      },
+      {
+        "label": "B",
+        "text": "Center of curvature"
+      },
+      {
+        "label": "C",
+        "text": "Pole"
+      },
+      {
+        "label": "D",
+        "text": "Principal axis"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Definition of Pole. The pole of a spherical mirror is the geometric center of the mirror’s reflecting surface. Step 2: Importance of the Pole. It is the point where the mirror’s surface intersects the principal axis, and all other points on the mirror are measured relative to this pole. Step 3: Conclusion. Hence, the geometric center of a spherical mirror is called the pole.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "reflection-of-light"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Reflection of Light",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Which of the following mirrors is used by a dentist to examine a patient’s teeth?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Concave mirror"
+      },
+      {
+        "label": "B",
+        "text": "Convex mirror"
+      },
+      {
+        "label": "C",
+        "text": "Plane mirror"
+      },
+      {
+        "label": "D",
+        "text": "Parabolic mirror"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Step 1: Purpose of the Mirror in Dentistry. A dentist uses a convex mirror to examine a patient’s teeth because it provides a wide field of view and forms a virtual, diminished, and upright image. This is helpful for the dentist to see the teeth from a wider angle. Step 2: Image Formation by a Convex Mirror. The convex mirror forms a virtual image that is upright and smaller than the object. This is ideal for examining a larger area of the teeth at once. Step 3: Conclusion. Hence, a convex mirror is used by dentists for examining teeth. 66 -- 66 of 114 --",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "physics",
+      "polycet-2025",
+      "reflection-of-light"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Magnetism",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Tesla is the SI unit of:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Magnetic field strength."
+      },
+      {
+        "label": "B",
+        "text": "Electric field strength."
+      },
+      {
+        "label": "C",
+        "text": "Magnetic flux density."
+      },
+      {
+        "label": "D",
+        "text": "Electric potential."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Understanding Tesla. Tesla is the SI unit used to measure magnetic flux density, also known as magnetic field strength. It is defined as one weber per square meter. Step 2: Formula for magnetic flux density. Tesla (T) measures the magnetic flux density, which is the amount of magnetic flux passing through a unit area perpendicular to the direction of the magnetic field. Step 3: Conclusion. Thus, Tesla is the unit of magnetic flux density (not just magnetic field strength) in the International System of Units (SI).",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "magnetism",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "There is no accumulation of electric charges at any junction in an electric circuit. Which law states this?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ohm’s Law."
+      },
+      {
+        "label": "B",
+        "text": "Kirchhoff’s Current Law. 67 -- 67 of 114 --"
+      },
+      {
+        "label": "C",
+        "text": "Kirchhoff’s Junction Law."
+      },
+      {
+        "label": "D",
+        "text": "Coulomb’s Law."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Understanding Kirchhoff’s Junction Law. Kirchhoff’s Junction Law (also known as Kirchhoff’s Current Law) states that the total current entering a junction in an electrical circuit must be equal to the total current leaving the junction. This implies that no charge accumulates at any junction in the circuit. Step 2: Explanation of the law. This law is based on the principle of conservation of charge, meaning that charge cannot be created or destroyed, and must be conserved at every junction. Step 3: Conclusion. Thus, Kirchhoff’s Junction Law is a fundamental principle in circuit analysis and ensures no charge accumulation at any junction.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "Solenoid behaves like a when current passes through it.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Magnetic dipole."
+      },
+      {
+        "label": "B",
+        "text": "Magnetic monopole."
+      },
+      {
+        "label": "C",
+        "text": "Bar magnet."
+      },
+      {
+        "label": "D",
+        "text": "Electric monopole."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Step 1: Understanding solenoid behavior. A solenoid is a coil of wire, and when an electric current passes through it, it generates a magnetic field similar to that of a bar magnet, with distinct north and south poles. Step 2: Magnetic field of a solenoid. 68 -- 68 of 114 -- When current flows through the solenoid, the magnetic field created within the solenoid behaves like the magnetic field of a bar magnet. This means the solenoid has a defined north and south pole at opposite ends. Step 3: Conclusion. Thus, when current flows through a solenoid, it behaves like a bar magnet, with a clear north and south pole.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The resistors 2Ω, 4Ω and 6Ω are connected in series. The equivalent resistance is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "12 Ω"
+      },
+      {
+        "label": "B",
+        "text": "10 Ω"
+      },
+      {
+        "label": "C",
+        "text": "8 Ω"
+      },
+      {
+        "label": "D",
+        "text": "6 Ω"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Step 1: Formula for series resistors. When resistors are connected in series, the equivalent resistance (Req) is the sum of the individual resistances: Req = R1 + R2 + R3 where R1 = 2 Ω, R2 = 4 Ω, and R3 = 6 Ω. Step 2: Calculate the total resistance. Req = 2 + 4 + 6 = 12 Ω Step 3: Conclusion. Thus, the equivalent resistance of the resistors connected in series is 12 Ω. 69 -- 69 of 114 --",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  },
+  {
+    "exam_type": "POLYCET",
+    "year": 2025,
+    "group": null,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "subtopic": null,
+    "difficulty": "MEDIUM",
+    "question_text": "The current in a wire depends on:",
+    "options": [
+      {
+        "label": "A",
+        "text": "The temperature of the wire."
+      },
+      {
+        "label": "B",
+        "text": "The resistance of the wire."
+      },
+      {
+        "label": "C",
+        "text": "The potential difference applied across the wire."
+      },
+      {
+        "label": "D",
+        "text": "Resistance and potential difference."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Step 1: Understanding Ohm’s Law. According to Ohm’s Law, the current in a wire is directly proportional to the potential difference (voltage) across the wire and inversely proportional to the resistance of the wire. I = V R Step 2: Effect of resistance. The resistance of the wire affects the current because as the resistance increases, the current decreases for a given voltage. Step 3: Effect of potential difference. The current increases when the potential difference increases, assuming the resistance remains constant. Step 4: Conclusion. Thus, the current depends on both the resistance and the potential difference applied across the wire.",
+    "source_type": "local_pdf",
+    "source_url": "file:///Users/saiprasadkomuroju/Downloads/ChromeDownLoadsSPK/TGS_Poly_Rjc/TS_POLYCET_2025_Q&A.pdf",
+    "tags": [
+      "electricity",
+      "physics",
+      "polycet-2025"
+    ]
+  }
+]

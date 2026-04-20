@@ -1,0 +1,1059 @@
+{
+  "sourceId": "local_tsrjc_recent_papers_bundle_actual",
+  "exam": "TGRJC",
+  "group": "MPC",
+  "year": 2025,
+  "status": "local_key_only_questions_need_ocr",
+  "rows": [
+    {
+      "question": 1,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "3"
+    },
+    {
+      "question": 2,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "3",
+      "bookletD": "1"
+    },
+    {
+      "question": 3,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "4",
+      "bookletD": "2"
+    },
+    {
+      "question": 4,
+      "bookletA": "1",
+      "bookletB": "3",
+      "bookletC": "1",
+      "bookletD": "3"
+    },
+    {
+      "question": 5,
+      "bookletA": "4",
+      "bookletB": "4",
+      "bookletC": "2",
+      "bookletD": "1"
+    },
+    {
+      "question": 6,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 7,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 8,
+      "bookletA": "4",
+      "bookletB": "2",
+      "bookletC": "3",
+      "bookletD": "3"
+    },
+    {
+      "question": 9,
+      "bookletA": "1",
+      "bookletB": "1",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 10,
+      "bookletA": "2",
+      "bookletB": "4",
+      "bookletC": "4",
+      "bookletD": "1"
+    },
+    {
+      "question": 11,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "4"
+    },
+    {
+      "question": 12,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 13,
+      "bookletA": "3",
+      "bookletB": "4",
+      "bookletC": "2",
+      "bookletD": "3"
+    },
+    {
+      "question": 14,
+      "bookletA": "3",
+      "bookletB": "1",
+      "bookletC": "1",
+      "bookletD": "4"
+    },
+    {
+      "question": 15,
+      "bookletA": "4",
+      "bookletB": "2",
+      "bookletC": "4",
+      "bookletD": "1"
+    },
+    {
+      "question": 16,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 17,
+      "bookletA": "1",
+      "bookletB": "1",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 18,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "1",
+      "bookletD": "3"
+    },
+    {
+      "question": 19,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "1",
+      "bookletD": "3"
+    },
+    {
+      "question": 20,
+      "bookletA": "1",
+      "bookletB": "1",
+      "bookletC": "3",
+      "bookletD": "3"
+    },
+    {
+      "question": 21,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "3",
+      "bookletD": "4"
+    },
+    {
+      "question": 22,
+      "bookletA": "2",
+      "bookletB": "1",
+      "bookletC": "2",
+      "bookletD": "4"
+    },
+    {
+      "question": 23,
+      "bookletA": "4",
+      "bookletB": "4",
+      "bookletC": "4",
+      "bookletD": "1"
+    },
+    {
+      "question": 24,
+      "bookletA": "1",
+      "bookletB": "2",
+      "bookletC": "3",
+      "bookletD": "1 or 4"
+    },
+    {
+      "question": 25,
+      "bookletA": "1",
+      "bookletB": "1",
+      "bookletC": "1",
+      "bookletD": "3"
+    },
+    {
+      "question": 26,
+      "bookletA": "4",
+      "bookletB": "4",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 27,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "4",
+      "bookletD": "3"
+    },
+    {
+      "question": 28,
+      "bookletA": "3",
+      "bookletB": "1",
+      "bookletC": "1",
+      "bookletD": "1"
+    },
+    {
+      "question": 29,
+      "bookletA": "1",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 30,
+      "bookletA": "4",
+      "bookletB": "4",
+      "bookletC": "4",
+      "bookletD": "4"
+    },
+    {
+      "question": 31,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "1",
+      "bookletD": "1"
+    },
+    {
+      "question": 32,
+      "bookletA": "1",
+      "bookletB": "1",
+      "bookletC": "1 or 4",
+      "bookletD": "1"
+    },
+    {
+      "question": 33,
+      "bookletA": "4",
+      "bookletB": "2",
+      "bookletC": "3",
+      "bookletD": "4"
+    },
+    {
+      "question": 34,
+      "bookletA": "2",
+      "bookletB": "4",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 35,
+      "bookletA": "1",
+      "bookletB": "1",
+      "bookletC": "3",
+      "bookletD": "3"
+    },
+    {
+      "question": 36,
+      "bookletA": "4",
+      "bookletB": "2",
+      "bookletC": "1",
+      "bookletD": "2"
+    },
+    {
+      "question": 37,
+      "bookletA": "1",
+      "bookletB": "2",
+      "bookletC": "1",
+      "bookletD": "4"
+    },
+    {
+      "question": 38,
+      "bookletA": "1 or 4",
+      "bookletB": "4",
+      "bookletC": "4",
+      "bookletD": "3"
+    },
+    {
+      "question": 39,
+      "bookletA": "3",
+      "bookletB": "1",
+      "bookletC": "2",
+      "bookletD": "1"
+    },
+    {
+      "question": 40,
+      "bookletA": "2",
+      "bookletB": "1",
+      "bookletC": "1",
+      "bookletD": "2"
+    },
+    {
+      "question": 41,
+      "bookletA": "3",
+      "bookletB": "4",
+      "bookletC": "4",
+      "bookletD": "4"
+    },
+    {
+      "question": 42,
+      "bookletA": "1",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "1"
+    },
+    {
+      "question": 43,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "1",
+      "bookletD": "2"
+    },
+    {
+      "question": 44,
+      "bookletA": "4",
+      "bookletB": "4",
+      "bookletC": "2",
+      "bookletD": "1"
+    },
+    {
+      "question": 45,
+      "bookletA": "3",
+      "bookletB": "1",
+      "bookletC": "4",
+      "bookletD": "4"
+    },
+    {
+      "question": 46,
+      "bookletA": "1",
+      "bookletB": "1 or 4",
+      "bookletC": "1",
+      "bookletD": "2"
+    },
+    {
+      "question": 47,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "1",
+      "bookletD": "1"
+    },
+    {
+      "question": 48,
+      "bookletA": "4",
+      "bookletB": "2",
+      "bookletC": "4",
+      "bookletD": "4"
+    },
+    {
+      "question": 49,
+      "bookletA": "1",
+      "bookletB": "3",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 50,
+      "bookletA": "2",
+      "bookletB": "1",
+      "bookletC": "3",
+      "bookletD": "1"
+    },
+    {
+      "question": 51,
+      "bookletA": "3",
+      "bookletB": "4",
+      "bookletC": "2",
+      "bookletD": "4"
+    },
+    {
+      "question": 52,
+      "bookletA": "2",
+      "bookletB": "1",
+      "bookletC": "4",
+      "bookletD": "1"
+    },
+    {
+      "question": 53,
+      "bookletA": "4",
+      "bookletB": "3",
+      "bookletC": "1",
+      "bookletD": "4"
+    },
+    {
+      "question": 54,
+      "bookletA": "3",
+      "bookletB": "2",
+      "bookletC": "1",
+      "bookletD": "2"
+    },
+    {
+      "question": 55,
+      "bookletA": "1",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "3"
+    },
+    {
+      "question": 56,
+      "bookletA": "3",
+      "bookletB": "2",
+      "bookletC": "4",
+      "bookletD": "4"
+    },
+    {
+      "question": 57,
+      "bookletA": "3",
+      "bookletB": "1",
+      "bookletC": "1",
+      "bookletD": "2"
+    },
+    {
+      "question": 58,
+      "bookletA": "1 or 3",
+      "bookletB": "4",
+      "bookletC": "3",
+      "bookletD": "1"
+    },
+    {
+      "question": 59,
+      "bookletA": "1",
+      "bookletB": "1",
+      "bookletC": "2",
+      "bookletD": "3"
+    },
+    {
+      "question": 60,
+      "bookletA": "4",
+      "bookletB": "4",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 61,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 62,
+      "bookletA": "4",
+      "bookletB": "1",
+      "bookletC": "1",
+      "bookletD": "4"
+    },
+    {
+      "question": 63,
+      "bookletA": "1",
+      "bookletB": "3",
+      "bookletC": "4",
+      "bookletD": "1"
+    },
+    {
+      "question": 64,
+      "bookletA": "add score",
+      "bookletB": "2",
+      "bookletC": "1",
+      "bookletD": "1"
+    },
+    {
+      "question": 65,
+      "bookletA": "4",
+      "bookletB": "4",
+      "bookletC": "4",
+      "bookletD": "2"
+    },
+    {
+      "question": 66,
+      "bookletA": "1",
+      "bookletB": "2",
+      "bookletC": "1",
+      "bookletD": "4"
+    },
+    {
+      "question": 67,
+      "bookletA": "3",
+      "bookletB": "add score",
+      "bookletC": "4",
+      "bookletD": "2"
+    },
+    {
+      "question": 68,
+      "bookletA": "2",
+      "bookletB": "4",
+      "bookletC": "2",
+      "bookletD": "4"
+    },
+    {
+      "question": 69,
+      "bookletA": "4",
+      "bookletB": "3",
+      "bookletC": "3",
+      "bookletD": "1"
+    },
+    {
+      "question": 70,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "3",
+      "bookletD": "add score"
+    },
+    {
+      "question": 71,
+      "bookletA": "1",
+      "bookletB": "4",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 72,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "1 or 3",
+      "bookletD": "2"
+    },
+    {
+      "question": 73,
+      "bookletA": "2",
+      "bookletB": "1",
+      "bookletC": "1",
+      "bookletD": "1"
+    },
+    {
+      "question": 74,
+      "bookletA": "3",
+      "bookletB": "2",
+      "bookletC": "3",
+      "bookletD": "4"
+    },
+    {
+      "question": 75,
+      "bookletA": "1",
+      "bookletB": "4",
+      "bookletC": "1",
+      "bookletD": "1"
+    },
+    {
+      "question": 76,
+      "bookletA": "3",
+      "bookletB": "1",
+      "bookletC": "1",
+      "bookletD": "4"
+    },
+    {
+      "question": 77,
+      "bookletA": "2",
+      "bookletB": "1",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 78,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "add score"
+    },
+    {
+      "question": 79,
+      "bookletA": "1",
+      "bookletB": "4",
+      "bookletC": "3",
+      "bookletD": "4"
+    },
+    {
+      "question": 80,
+      "bookletA": "4",
+      "bookletB": "1",
+      "bookletC": "1",
+      "bookletD": "3"
+    },
+    {
+      "question": 81,
+      "bookletA": "1",
+      "bookletB": "4",
+      "bookletC": "3",
+      "bookletD": "3"
+    },
+    {
+      "question": 82,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "4",
+      "bookletD": "1 or 3"
+    },
+    {
+      "question": 83,
+      "bookletA": "4",
+      "bookletB": "3",
+      "bookletC": "2",
+      "bookletD": "1"
+    },
+    {
+      "question": 84,
+      "bookletA": "1",
+      "bookletB": "3",
+      "bookletC": "4",
+      "bookletD": "3"
+    },
+    {
+      "question": 85,
+      "bookletA": "1",
+      "bookletB": "3",
+      "bookletC": "1",
+      "bookletD": "1"
+    },
+    {
+      "question": 86,
+      "bookletA": "2",
+      "bookletB": "1 or 3",
+      "bookletC": "add score",
+      "bookletD": "1"
+    },
+    {
+      "question": 87,
+      "bookletA": "4",
+      "bookletB": "1",
+      "bookletC": "4",
+      "bookletD": "3"
+    },
+    {
+      "question": 88,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 89,
+      "bookletA": "add score",
+      "bookletB": "1",
+      "bookletC": "1",
+      "bookletD": "3"
+    },
+    {
+      "question": 90,
+      "bookletA": "4",
+      "bookletB": "1",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 91,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "2",
+      "bookletD": "4"
+    },
+    {
+      "question": 92,
+      "bookletA": "1",
+      "bookletB": "2",
+      "bookletC": "4",
+      "bookletD": "3"
+    },
+    {
+      "question": 93,
+      "bookletA": "1",
+      "bookletB": "3",
+      "bookletC": "2",
+      "bookletD": "1"
+    },
+    {
+      "question": 94,
+      "bookletA": "3",
+      "bookletB": "1",
+      "bookletC": "add score",
+      "bookletD": "4"
+    },
+    {
+      "question": 95,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "4",
+      "bookletD": "1"
+    },
+    {
+      "question": 96,
+      "bookletA": "4",
+      "bookletB": "4",
+      "bookletC": "3",
+      "bookletD": "3"
+    },
+    {
+      "question": 97,
+      "bookletA": "1",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 98,
+      "bookletA": "4",
+      "bookletB": "4",
+      "bookletC": "4",
+      "bookletD": "3"
+    },
+    {
+      "question": 99,
+      "bookletA": "2",
+      "bookletB": "1",
+      "bookletC": "3",
+      "bookletD": "1"
+    },
+    {
+      "question": 100,
+      "bookletA": "3",
+      "bookletB": "add score",
+      "bookletC": "1",
+      "bookletD": "3"
+    },
+    {
+      "question": 101,
+      "bookletA": "4",
+      "bookletB": "1",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 102,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 103,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "3",
+      "bookletD": "3"
+    },
+    {
+      "question": 104,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "1",
+      "bookletD": "2"
+    },
+    {
+      "question": 105,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "3",
+      "bookletD": "3"
+    },
+    {
+      "question": 106,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "2",
+      "bookletD": "1"
+    },
+    {
+      "question": 107,
+      "bookletA": "4",
+      "bookletB": "4",
+      "bookletC": "1 or 3",
+      "bookletD": "4"
+    },
+    {
+      "question": 108,
+      "bookletA": "1",
+      "bookletB": "2",
+      "bookletC": "4",
+      "bookletD": "4"
+    },
+    {
+      "question": 109,
+      "bookletA": "3",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "3"
+    },
+    {
+      "question": 110,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "1",
+      "bookletD": "3"
+    },
+    {
+      "question": 111,
+      "bookletA": "4",
+      "bookletB": "2",
+      "bookletC": "4",
+      "bookletD": "1"
+    },
+    {
+      "question": 112,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "4",
+      "bookletD": "4"
+    },
+    {
+      "question": 113,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "3",
+      "bookletD": "1"
+    },
+    {
+      "question": 114,
+      "bookletA": "3",
+      "bookletB": "2",
+      "bookletC": "1",
+      "bookletD": "2"
+    },
+    {
+      "question": 115,
+      "bookletA": "1",
+      "bookletB": "3",
+      "bookletC": "2",
+      "bookletD": "3"
+    },
+    {
+      "question": 116,
+      "bookletA": "3",
+      "bookletB": "1",
+      "bookletC": "2",
+      "bookletD": "3"
+    },
+    {
+      "question": 117,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "3",
+      "bookletD": "3"
+    },
+    {
+      "question": 118,
+      "bookletA": "3",
+      "bookletB": "2",
+      "bookletC": "4",
+      "bookletD": "4"
+    },
+    {
+      "question": 119,
+      "bookletA": "4",
+      "bookletB": "1 or 3",
+      "bookletC": "1",
+      "bookletD": "3"
+    },
+    {
+      "question": 120,
+      "bookletA": "1",
+      "bookletB": "4",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 121,
+      "bookletA": "4",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "3"
+    },
+    {
+      "question": 122,
+      "bookletA": "4",
+      "bookletB": "4",
+      "bookletC": "4",
+      "bookletD": "4"
+    },
+    {
+      "question": 123,
+      "bookletA": "3",
+      "bookletB": "1",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 124,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "1",
+      "bookletD": "1 or 3"
+    },
+    {
+      "question": 125,
+      "bookletA": "3",
+      "bookletB": "2",
+      "bookletC": "4",
+      "bookletD": "4"
+    },
+    {
+      "question": 126,
+      "bookletA": "add score",
+      "bookletB": "4",
+      "bookletC": "1",
+      "bookletD": "2"
+    },
+    {
+      "question": 127,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "2",
+      "bookletD": "4"
+    },
+    {
+      "question": 128,
+      "bookletA": "1",
+      "bookletB": "3",
+      "bookletC": "4",
+      "bookletD": "1"
+    },
+    {
+      "question": 129,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "2",
+      "bookletD": "3"
+    },
+    {
+      "question": 130,
+      "bookletA": "2",
+      "bookletB": "4",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 131,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "3",
+      "bookletD": "4"
+    },
+    {
+      "question": 132,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "3",
+      "bookletD": "1"
+    },
+    {
+      "question": 133,
+      "bookletA": "1 or 3",
+      "bookletB": "3",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 134,
+      "bookletA": "4",
+      "bookletB": "add score",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 135,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "2",
+      "bookletD": "3"
+    },
+    {
+      "question": 136,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "3",
+      "bookletD": "4"
+    },
+    {
+      "question": 137,
+      "bookletA": "3",
+      "bookletB": "1",
+      "bookletC": "2",
+      "bookletD": "2"
+    },
+    {
+      "question": 138,
+      "bookletA": "3",
+      "bookletB": "4",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 139,
+      "bookletA": "4",
+      "bookletB": "1",
+      "bookletC": "2",
+      "bookletD": "3"
+    },
+    {
+      "question": 140,
+      "bookletA": "3",
+      "bookletB": "2",
+      "bookletC": "3",
+      "bookletD": "3"
+    },
+    {
+      "question": 141,
+      "bookletA": "2",
+      "bookletB": "4",
+      "bookletC": "add score",
+      "bookletD": "3"
+    },
+    {
+      "question": 142,
+      "bookletA": "2",
+      "bookletB": "2",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 143,
+      "bookletA": "3",
+      "bookletB": "2",
+      "bookletC": "2",
+      "bookletD": "3"
+    },
+    {
+      "question": 144,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "3",
+      "bookletD": "add score"
+    },
+    {
+      "question": 145,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "4",
+      "bookletD": "3"
+    },
+    {
+      "question": 146,
+      "bookletA": "3",
+      "bookletB": "3",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 147,
+      "bookletA": "1",
+      "bookletB": "1",
+      "bookletC": "3",
+      "bookletD": "2"
+    },
+    {
+      "question": 148,
+      "bookletA": "4",
+      "bookletB": "4",
+      "bookletC": "3",
+      "bookletD": "3"
+    },
+    {
+      "question": 149,
+      "bookletA": "1",
+      "bookletB": "4",
+      "bookletC": "4",
+      "bookletD": "1"
+    },
+    {
+      "question": 150,
+      "bookletA": "2",
+      "bookletB": "3",
+      "bookletC": "3",
+      "bookletD": "3"
+    }
+  ]
+}

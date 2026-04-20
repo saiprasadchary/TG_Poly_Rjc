@@ -1,28 +1,18 @@
 import { Card, PageHeader, SectionTitle } from "@/components/ui";
-import { prisma } from "@/lib/prisma";
+import { deploySourceRecords } from "@/lib/deploy-data";
 import { sourceRank } from "@/lib/source-rank";
 
-export const dynamic = "force-dynamic";
-
-export default async function SourcesPage() {
-  const sources = await prisma.sourceRecord.findMany({
-    where: {
-      OR: [
-        { exam: "POLYCET" },
-        { exam: "TGRJC", group: "MPC" },
-        { exam: "SSC_TOPIC_MAPPING" }
-      ]
-    }
-  });
-
-  sources.sort((a, b) => sourceRank(a) - sourceRank(b) || a.assetType.localeCompare(b.assetType) || a.title.localeCompare(b.title));
+export default function SourcesPage() {
+  const sources = deploySourceRecords
+    .filter((source) => source.exam === "POLYCET" || (source.exam === "TGRJC" && source.group === "MPC") || source.exam === "SSC_TOPIC_MAPPING")
+    .sort((a, b) => sourceRank(a) - sourceRank(b) || a.assetType.localeCompare(b.assetType) || a.title.localeCompare(b.title));
 
   const officialCount = sources.filter((source) => source.sourceType === "official").length;
   const verifiedKeys = sources.filter((source) => source.verificationStatus === "verified_official_key").length;
 
   return (
     <main>
-      <PageHeader eyebrow="Debug" title="Source Registry" note="Active registry for POLYCET and TSRJC/TGRJC MPC. Retrieval prefers official sources first, then mirrors, then community gap-fill." />
+      <PageHeader eyebrow="Debug" title="Source Registry" note="Active registry for POLYCET and TSRJC/TGRJC MPC. Retrieval prefers official sources first, then mirrors, then local imports/community gap-fill." />
       <section className="grid gap-3 sm:grid-cols-3">
         <Card><p className="text-sm font-bold text-ink/50">Records</p><p className="text-3xl font-black">{sources.length}</p></Card>
         <Card><p className="text-sm font-bold text-ink/50">Official</p><p className="text-3xl font-black">{officialCount}</p></Card>

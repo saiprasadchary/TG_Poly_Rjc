@@ -1,51 +1,41 @@
-import { readFileSync } from 'fs';
-import PDFParser from 'pdf2json';
+import { readFileSync } from "node:fs";
+import { PDFParse } from "pdf-parse";
 
 /**
- * Extract text from a PDF file.
- * @param {string} path - Path to the PDF file.
- * @returns {Promise<string>} - Extracted text from the PDF.
+ * Extract text from a PDF file using the same parser as the local import scripts.
  */
 const extractTextFromPDF = async (path: string): Promise<string> => {
-    return new Promise((resolve, reject) => {
-        const pdfParser = new PDFParser();
-        pdfParser.on("pdfParser_dataError", errData => reject(errData.parserError));
-        pdfParser.on("pdfParser_dataReady", pdfData => resolve(pdfData?.text));
-        pdfParser.loadPDF(path);
-    });
+  const parser = new PDFParse({ data: readFileSync(path) });
+  const result = await parser.getText();
+  await parser.destroy();
+  return result.text ?? "";
 };
 
 /**
- * Parse PDF text into structured JSON.
- * @param {string} pdfText - The extracted text from the PDF.
- * @returns {Object[]} - Array of structured questions.
+ * Parse PDF text into simple blocks. Production question parsing lives in the exam-specific importers.
  */
-const parseQuestions = (pdfText: string): Object[] => {
-    const questions = pdfText.split(/\n\n+/).map(q => ({ question: q.trim() }));
-    return questions.filter(q => q.question.length > 0);
+const parseQuestions = (pdfText: string): Array<{ question: string }> => {
+  const questions = pdfText.split(/\n\n+/).map((question) => ({ question: question.trim() }));
+  return questions.filter((question) => question.question.length > 0);
 };
 
 /**
- * Extract and parse PDF exam papers into structured JSON questions with retry logic.
- * @param {string} path - Path to the PDF to process.
- * @param {number} retries - Number of retries for transient failures.
- * @returns {Promise<Object[]>} - Structured JSON questions.
+ * Extract and parse PDF exam papers into structured JSON blocks with retry logic.
  */
-const extractAndParsePDF = async (path: string, retries: number = 3): Promise<Object[]> => {
-    let attempt = 0;
-    while (attempt < retries) {
-        try {
-            const pdfText = await extractTextFromPDF(path);
-            return parseQuestions(pdfText);
-        } catch (error) {
-            console.error(`Attempt ${attempt + 1} failed: ${error}`);
-            attempt++;
-            if (attempt >= retries) {
-                throw new Error(`Failed to extract and parse PDF after ${retries} attempts.`);
-            }
-        }
+const extractAndParsePDF = async (path: string, retries = 3): Promise<Array<{ question: string }>> => {
+  let attempt = 0;
+  while (attempt < retries) {
+    try {
+      const pdfText = await extractTextFromPDF(path);
+      return parseQuestions(pdfText);
+    } catch (error) {
+      attempt += 1;
+      if (attempt >= retries) {
+        throw new Error(`Failed to extract and parse PDF after ${retries} attempts: ${String(error)}`);
+      }
     }
-    return [];
+  }
+  return [];
 };
 
 export { extractTextFromPDF, parseQuestions, extractAndParsePDF };

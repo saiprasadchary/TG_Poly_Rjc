@@ -14,13 +14,17 @@
     "seed": "tsx prisma/seed.ts",
     "sources:import": "tsx scripts/import-source-registry.ts",
     "papers:sync": "tsx scripts/sync-papers-from-sources.ts",
-    "import:questions": "tsx scripts/import-questions.ts"
+    "pdfs:import": "tsx scripts/import-local-polycet-pdfs.ts",
+    "tsrjc:import": "tsx scripts/import-local-tsrjc-pdfs.ts",
+    "import:questions": "tsx scripts/import-questions.ts",
+    "deploy:export": "tsx scripts/export-deploy-data.ts"
   },
   "dependencies": {
     "@prisma/client": "^5.22.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.468.0",
     "next": "^15.0.3",
+    "pdf-parse": "^2.4.5",
     "prisma": "^5.22.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

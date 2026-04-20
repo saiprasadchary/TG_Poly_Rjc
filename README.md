@@ -183,3 +183,7 @@ Mana Mentor should stay practical. Avoid ornamental features unless they directl
 - Full mock generator that enforces exact exam distributions
 - Retrieval layer backed by embeddings over curated syllabus/question-bank data
 - Downloadable low-data revision sheets
+
+## Deployment
+
+See `DEPLOYMENT.md` for Vercel deployment steps. The current mobile web deployment uses bundled JSON data from `data/deploy` and PDFs from `public/sources`, so it can run on Vercel without a database for the first public version.
