@@ -1,4 +1,4 @@
-# Mana Mentor
+# Mana Mentor ..
 
 Mana Mentor is a production-minded MVP for Telangana SSC students preparing mainly for POLYCET and TSRJC/TGRJC MPC. It is mobile-first, low-clutter, and built around useful exam prep actions: practice, assess, retry mistakes, plan study, and ask doubts from curated context.
 
